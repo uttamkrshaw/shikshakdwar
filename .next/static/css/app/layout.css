@@ -1,6 +1,6 @@
-/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[3].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[2].oneOf[3].use[2]!./node_modules/next/font/google/target.css?{"path":"src\\app\\layout.tsx","import":"Roboto","arguments":[{"subsets":["latin"],"weight":["300","400","500","700","900"],"display":"swap"}],"variableName":"roboto"} ***!
-  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[3].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[2].oneOf[3].use[2]!./node_modules/next/font/google/target.css?{"path":"src/app/layout.tsx","import":"Roboto","arguments":[{"subsets":["latin"],"weight":["300","400","500","700","900"],"display":"swap"}],"variableName":"roboto"} ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 @font-face {
   font-family: '__Roboto_Fallback_27a9fa';
   src: local("Arial");
@@ -716,9 +716,6 @@ video {
 .m-0\.5 {
   margin: 0.125rem;
 }
-.m-2\.5 {
-  margin: 0.625rem;
-}
 .m-4 {
   margin: 1rem;
 }
@@ -760,10 +757,6 @@ video {
 .my-4 {
   margin-top: 1rem;
   margin-bottom: 1rem;
-}
-.my-6 {
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
 }
 .my-auto {
   margin-top: auto;
@@ -1073,9 +1066,6 @@ video {
 .w-9 {
   width: 2.25rem;
 }
-.w-96 {
-  width: 24rem;
-}
 .w-\[110px\] {
   width: 110px;
 }
@@ -1185,6 +1175,9 @@ video {
 }
 .shrink-0 {
   flex-shrink: 0;
+}
+.grow {
+  flex-grow: 1;
 }
 .basis-full {
   flex-basis: 100%;
@@ -1976,20 +1969,11 @@ video {
 .bg-\[url\(\'\/image\/Background\.png\'\)\] {
   background-image: url('/image/Background.png');
 }
-.bg-\[url\(\'\/image\/activities\/activity\.jpg\'\)\] {
-  background-image: url('/image/activities/activity.jpg');
-}
-.bg-\[url\(\'\/image\/cognitive\/t_prod_B19\.jpg\'\)\] {
-  background-image: url('/image/cognitive/t_prod_B19.jpg');
-}
 .bg-\[url\(\'\/image\/contact\/contact-banner\.webp\'\)\] {
   background-image: url('/image/contact/contact-banner.webp');
 }
 .bg-\[url\(\'\/image\/course\.png\'\)\] {
   background-image: url('/image/course.png');
-}
-.bg-\[url\(\'\/image\/cyber\/cyber\.webp\'\)\] {
-  background-image: url('/image/cyber/cyber.webp');
 }
 .bg-\[url\(\'\/image\/guide\/banner\.jpg\'\)\] {
   background-image: url('/image/guide/banner.jpg');
@@ -2823,26 +2807,6 @@ video {
   --tw-text-opacity: 1;
   color: rgb(245 127 23 / var(--tw-text-opacity, 1));
 }
-.text-\[\#404858\] {
-  --tw-text-opacity: 1;
-  color: rgb(64 72 88 / var(--tw-text-opacity, 1));
-}
-.text-\[\#80848c\] {
-  --tw-text-opacity: 1;
-  color: rgb(128 132 140 / var(--tw-text-opacity, 1));
-}
-.text-\[\#77787a\] {
-  --tw-text-opacity: 1;
-  color: rgb(119 120 122 / var(--tw-text-opacity, 1));
-}
-.text-\[\#e3e5e8\] {
-  --tw-text-opacity: 1;
-  color: rgb(227 229 232 / var(--tw-text-opacity, 1));
-}
-.text-\[\#788db6\] {
-  --tw-text-opacity: 1;
-  color: rgb(120 141 182 / var(--tw-text-opacity, 1));
-}
 .underline {
   text-decoration-line: underline;
 }
@@ -2888,11 +2852,6 @@ video {
 .shadow-none {
   --tw-shadow: 0 0 rgb(0, 0 / 0, 0);
   --tw-shadow-colored: 0 0 var(--tw-shadow-color);
-  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
-}
-.shadow-sm {
-  --tw-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
-  --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 .shadow-amber-500\/20 {
@@ -3102,11 +3061,6 @@ video {
 }
 .transition-opacity {
   transition-property: opacity;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  transition-duration: 150ms;
-}
-.transition-shadow {
-  transition-property: box-shadow;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 150ms;
 }
@@ -4486,11 +4440,6 @@ video {
   --tw-shadow: 0 0 rgb(0, 0 / 0, 0);
   --tw-shadow-colored: 0 0 var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
-}
-.group:hover .group-hover\:scale-110 {
-  --tw-scale-x: 1.1;
-  --tw-scale-y: 1.1;
-  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 .group:hover .group-hover\:opacity-100 {
   opacity: 1;

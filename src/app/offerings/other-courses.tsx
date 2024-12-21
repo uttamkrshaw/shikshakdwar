@@ -31,7 +31,7 @@ const OTHER_COURSES = [
     title: "Cyber Security Programs",
     desc: "Prepare for the growing demand in cyber security with hands-on training in protecting systems and data from evolving threats.",
     buttonLabel: "Explore",
-    link: "/cyber-security"
+    link: "/cyber-security-programs"
 
   },
   {

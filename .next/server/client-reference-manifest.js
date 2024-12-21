@@ -747,7 +747,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "*",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -755,7 +755,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -763,7 +763,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "default",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       }
@@ -773,7 +773,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "*",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -781,7 +781,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -789,7 +789,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "default",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       }
@@ -799,7 +799,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "*",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -807,7 +807,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -815,7 +815,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "default",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -823,7 +823,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "defaultHead",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -831,7 +831,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "charSet",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -839,7 +839,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "name",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -847,7 +847,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "content",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -855,7 +855,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"title\"",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -863,7 +863,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"base\"",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -871,7 +871,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"meta\"",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -879,7 +879,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "TODO(prateekbh@)",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -887,7 +887,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"https",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -895,7 +895,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "here",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -903,7 +903,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "https",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -911,7 +911,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "reduceComponentsToState",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -919,7 +919,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "headManager",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -927,7 +927,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "inAmpMode",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -935,7 +935,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "value",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       }
@@ -945,7 +945,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/fixed-plugin.tsx",
         "name": "*",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -953,7 +953,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/fixed-plugin.tsx",
         "name": "",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -961,7 +961,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/fixed-plugin.tsx",
         "name": "FixedPlugin",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       }
@@ -971,7 +971,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "*",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -979,7 +979,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -987,7 +987,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "BackgroundCard",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -995,7 +995,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "CourseCard",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -1003,7 +1003,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "FeatureCard",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -1011,7 +1011,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "FixedPlugin",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -1019,7 +1019,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "Footer",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -1027,7 +1027,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "Layout",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -1035,7 +1035,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "Navbar",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       }
@@ -1045,7 +1045,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/layout.tsx",
         "name": "*",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -1053,7 +1053,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/layout.tsx",
         "name": "",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -1061,7 +1061,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/layout.tsx",
         "name": "Layout",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
@@ -1069,307 +1069,281 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/layout.tsx",
         "name": "default",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./src/app/carousel-features.tsx": {
+    "(app-client)/./src/app/offerings/hero.tsx": {
       "*": {
-        "id": "(sc_client)/./src/app/carousel-features.tsx",
+        "id": "(sc_client)/./src/app/offerings/hero.tsx",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/offerings/page:static/chunks/app/offerings/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./src/app/carousel-features.tsx",
+        "id": "(sc_client)/./src/app/offerings/hero.tsx",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "CarouselFeatures": {
-        "id": "(sc_client)/./src/app/carousel-features.tsx",
-        "name": "CarouselFeatures",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/offerings/page:static/chunks/app/offerings/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./src/app/carousel-features.tsx",
+        "id": "(sc_client)/./src/app/offerings/hero.tsx",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/offerings/page:static/chunks/app/offerings/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./src/app/hero.tsx": {
+    "(app-client)/./src/app/offerings/other-courses.tsx": {
       "*": {
-        "id": "(sc_client)/./src/app/hero.tsx",
+        "id": "(sc_client)/./src/app/offerings/other-courses.tsx",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/offerings/page:static/chunks/app/offerings/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./src/app/hero.tsx",
+        "id": "(sc_client)/./src/app/offerings/other-courses.tsx",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/hero.tsx",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/online-course.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/online-course.tsx",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/online-course.tsx",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "OnlineCourse": {
-        "id": "(sc_client)/./src/app/online-course.tsx",
-        "name": "OnlineCourse",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/online-course.tsx",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/other-courses.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/other-courses.tsx",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/other-courses.tsx",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/offerings/page:static/chunks/app/offerings/page.js"
         ],
         "async": false
       },
       "OtherCourses": {
-        "id": "(sc_client)/./src/app/other-courses.tsx",
+        "id": "(sc_client)/./src/app/offerings/other-courses.tsx",
         "name": "OtherCourses",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/offerings/page:static/chunks/app/offerings/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./src/app/other-courses.tsx",
+        "id": "(sc_client)/./src/app/offerings/other-courses.tsx",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/offerings/page:static/chunks/app/offerings/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./src/app/pricing.tsx": {
+    "(app-client)/./src/app/teacher-training-courses/hero.tsx": {
       "*": {
-        "id": "(sc_client)/./src/app/pricing.tsx",
+        "id": "(sc_client)/./src/app/teacher-training-courses/hero.tsx",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./src/app/pricing.tsx",
+        "id": "(sc_client)/./src/app/teacher-training-courses/hero.tsx",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "Pricing": {
-        "id": "(sc_client)/./src/app/pricing.tsx",
-        "name": "Pricing",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./src/app/pricing.tsx",
+        "id": "(sc_client)/./src/app/teacher-training-courses/hero.tsx",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./src/app/why-choose-us.tsx": {
+    "(app-client)/./src/app/teacher-training-courses/more-details.tsx": {
       "*": {
-        "id": "(sc_client)/./src/app/why-choose-us.tsx",
+        "id": "(sc_client)/./src/app/teacher-training-courses/more-details.tsx",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./src/app/why-choose-us.tsx",
+        "id": "(sc_client)/./src/app/teacher-training-courses/more-details.tsx",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "WhyChooseUs": {
-        "id": "(sc_client)/./src/app/why-choose-us.tsx",
-        "name": "WhyChooseUs",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./src/app/why-choose-us.tsx",
+        "id": "(sc_client)/./src/app/teacher-training-courses/more-details.tsx",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./src/app/(activities)/activities/hero.tsx": {
+    "(app-client)/./src/app/teacher-training-courses/teacher-course.tsx": {
       "*": {
-        "id": "(sc_client)/./src/app/(activities)/activities/hero.tsx",
+        "id": "(sc_client)/./src/app/teacher-training-courses/teacher-course.tsx",
         "name": "*",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./src/app/(activities)/activities/hero.tsx",
+        "id": "(sc_client)/./src/app/teacher-training-courses/teacher-course.tsx",
         "name": "",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
+        ],
+        "async": false
+      },
+      "TeacherCourse": {
+        "id": "(sc_client)/./src/app/teacher-training-courses/teacher-course.tsx",
+        "name": "TeacherCourse",
+        "chunks": [
+          "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./src/app/(activities)/activities/hero.tsx",
+        "id": "(sc_client)/./src/app/teacher-training-courses/teacher-course.tsx",
         "name": "default",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./src/app/(program)/cognitive-learning/page.tsx": {
+    "(app-client)/./src/app/guide-focus/hero.tsx": {
       "*": {
-        "id": "(sc_client)/./src/app/(program)/cognitive-learning/page.tsx",
+        "id": "(sc_client)/./src/app/guide-focus/hero.tsx",
         "name": "*",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./src/app/(program)/cognitive-learning/page.tsx",
+        "id": "(sc_client)/./src/app/guide-focus/hero.tsx",
         "name": "",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./src/app/(program)/cognitive-learning/page.tsx",
+        "id": "(sc_client)/./src/app/guide-focus/hero.tsx",
         "name": "default",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./src/components/program/cognitiveCard.tsx": {
+    "(app-client)/./src/app/guide-focus/role-teacher.tsx": {
       "*": {
-        "id": "(sc_client)/./src/components/program/cognitiveCard.tsx",
+        "id": "(sc_client)/./src/app/guide-focus/role-teacher.tsx",
         "name": "*",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./src/components/program/cognitiveCard.tsx",
+        "id": "(sc_client)/./src/app/guide-focus/role-teacher.tsx",
         "name": "",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
+        ],
+        "async": false
+      },
+      "RoleTeacher": {
+        "id": "(sc_client)/./src/app/guide-focus/role-teacher.tsx",
+        "name": "RoleTeacher",
+        "chunks": [
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./src/components/program/cognitiveCard.tsx",
+        "id": "(sc_client)/./src/app/guide-focus/role-teacher.tsx",
         "name": "default",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./src/components/program/curriculum.tsx": {
+    "(app-client)/./src/app/guide-focus/skill-up-teacher.tsx": {
       "*": {
-        "id": "(sc_client)/./src/components/program/curriculum.tsx",
+        "id": "(sc_client)/./src/app/guide-focus/skill-up-teacher.tsx",
         "name": "*",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./src/components/program/curriculum.tsx",
+        "id": "(sc_client)/./src/app/guide-focus/skill-up-teacher.tsx",
         "name": "",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
+        ],
+        "async": false
+      },
+      "SkillUpTeacher": {
+        "id": "(sc_client)/./src/app/guide-focus/skill-up-teacher.tsx",
+        "name": "SkillUpTeacher",
+        "chunks": [
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./src/components/program/curriculum.tsx",
+        "id": "(sc_client)/./src/app/guide-focus/skill-up-teacher.tsx",
         "name": "default",
         "chunks": [
-          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/guide-focus/why-become-teacher.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/guide-focus/why-become-teacher.tsx",
+        "name": "*",
+        "chunks": [
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/guide-focus/why-become-teacher.tsx",
+        "name": "",
+        "chunks": [
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
+        ],
+        "async": false
+      },
+      "WhyBecomeTeacher": {
+        "id": "(sc_client)/./src/app/guide-focus/why-become-teacher.tsx",
+        "name": "WhyBecomeTeacher",
+        "chunks": [
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/guide-focus/why-become-teacher.tsx",
+        "name": "default",
+        "chunks": [
+          "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
         ],
         "async": false
       }
@@ -1377,12 +1351,12 @@ self.__RSC_MANIFEST={
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\layout": [
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/layout": [
       "static/css/app/layout.css"
     ]
   },
   "clientModules": {
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -1390,7 +1364,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -1398,7 +1372,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -1406,7 +1380,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -1414,7 +1388,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -1422,7 +1396,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -1430,7 +1404,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#getServerActionDispatcher": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -1438,7 +1412,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#getServerActionDispatcher": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -1446,7 +1420,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -1454,7 +1428,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -1462,7 +1436,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#TODO-APP": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#TODO-APP": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "TODO-APP",
       "chunks": [
@@ -1470,7 +1444,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#TODO-APP": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#TODO-APP": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "TODO-APP",
       "chunks": [
@@ -1478,7 +1452,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#__NA": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#__NA": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "__NA",
       "chunks": [
@@ -1486,7 +1460,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#__NA": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#__NA": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "__NA",
       "chunks": [
@@ -1494,7 +1468,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#location": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#location": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "location",
       "chunks": [
@@ -1502,7 +1476,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#location": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#location": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "location",
       "chunks": [
@@ -1510,7 +1484,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#\"http": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#\"http": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "\"http",
       "chunks": [
@@ -1518,7 +1492,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#\"http": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#\"http": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "\"http",
       "chunks": [
@@ -1526,7 +1500,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#searchParams": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#searchParams": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "searchParams",
       "chunks": [
@@ -1534,7 +1508,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#searchParams": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#searchParams": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "searchParams",
       "chunks": [
@@ -1542,7 +1516,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#pathname": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#pathname": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pathname",
       "chunks": [
@@ -1550,7 +1524,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pathname": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#pathname": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pathname",
       "chunks": [
@@ -1558,7 +1532,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#type": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#type": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "type",
       "chunks": [
@@ -1566,7 +1540,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#type": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#type": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "type",
       "chunks": [
@@ -1574,7 +1548,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#cache": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#cache": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "cache",
       "chunks": [
@@ -1582,7 +1556,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#cache": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#cache": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "cache",
       "chunks": [
@@ -1590,7 +1564,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#status": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#status": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "status",
       "chunks": [
@@ -1598,7 +1572,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#status": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#status": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "status",
       "chunks": [
@@ -1606,7 +1580,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#data": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#data": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "data",
       "chunks": [
@@ -1614,7 +1588,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#data": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#data": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "data",
       "chunks": [
@@ -1622,7 +1596,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#subTreeData": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#subTreeData": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "subTreeData",
       "chunks": [
@@ -1630,7 +1604,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#subTreeData": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#subTreeData": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "subTreeData",
       "chunks": [
@@ -1638,7 +1612,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#parallelRoutes": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#parallelRoutes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "parallelRoutes",
       "chunks": [
@@ -1646,7 +1620,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#parallelRoutes": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#parallelRoutes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "parallelRoutes",
       "chunks": [
@@ -1654,7 +1628,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#mutable": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#mutable": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "mutable",
       "chunks": [
@@ -1662,7 +1636,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#mutable": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#mutable": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "mutable",
       "chunks": [
@@ -1670,7 +1644,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#isExternalUrl": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#isExternalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "isExternalUrl",
       "chunks": [
@@ -1678,7 +1652,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#isExternalUrl": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#isExternalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "isExternalUrl",
       "chunks": [
@@ -1686,7 +1660,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#locationSearch": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#locationSearch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "locationSearch",
       "chunks": [
@@ -1694,7 +1668,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#locationSearch": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#locationSearch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "locationSearch",
       "chunks": [
@@ -1702,7 +1676,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#back": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#back": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "back",
       "chunks": [
@@ -1710,7 +1684,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#back": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#back": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "back",
       "chunks": [
@@ -1718,7 +1692,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#forward": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#forward": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "forward",
       "chunks": [
@@ -1726,7 +1700,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#forward": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#forward": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "forward",
       "chunks": [
@@ -1734,7 +1708,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#prefetch": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#prefetch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "prefetch",
       "chunks": [
@@ -1742,7 +1716,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#prefetch": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#prefetch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "prefetch",
       "chunks": [
@@ -1750,7 +1724,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#kind": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#kind": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "kind",
       "chunks": [
@@ -1758,7 +1732,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#kind": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#kind": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "kind",
       "chunks": [
@@ -1766,7 +1740,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#replace": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#replace": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "replace",
       "chunks": [
@@ -1774,7 +1748,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#replace": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#replace": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "replace",
       "chunks": [
@@ -1782,7 +1756,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#push": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#push": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "push",
       "chunks": [
@@ -1790,7 +1764,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#push": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#push": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "push",
       "chunks": [
@@ -1798,7 +1772,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#refresh": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#refresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "refresh",
       "chunks": [
@@ -1806,7 +1780,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#refresh": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#refresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "refresh",
       "chunks": [
@@ -1814,7 +1788,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#origin": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#origin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "origin",
       "chunks": [
@@ -1822,7 +1796,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#origin": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#origin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "origin",
       "chunks": [
@@ -1830,7 +1804,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#fastRefresh": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#fastRefresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "fastRefresh",
       "chunks": [
@@ -1838,7 +1812,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#fastRefresh": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#fastRefresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "fastRefresh",
       "chunks": [
@@ -1846,7 +1820,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#router": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "router",
       "chunks": [
@@ -1854,7 +1828,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#router": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "router",
       "chunks": [
@@ -1862,7 +1836,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#(eg": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#(eg": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "(eg",
       "chunks": [
@@ -1870,7 +1844,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#(eg": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#(eg": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "(eg",
       "chunks": [
@@ -1878,7 +1852,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#url": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#url": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "url",
       "chunks": [
@@ -1886,7 +1860,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#url": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#url": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "url",
       "chunks": [
@@ -1894,7 +1868,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#tree": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#tree": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "tree",
       "chunks": [
@@ -1902,7 +1876,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#tree": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#tree": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "tree",
       "chunks": [
@@ -1910,7 +1884,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#notFound": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#notFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFound",
       "chunks": [
@@ -1918,7 +1892,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFound": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#notFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFound",
       "chunks": [
@@ -1926,7 +1900,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#notFoundStyles": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#notFoundStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFoundStyles",
       "chunks": [
@@ -1934,7 +1908,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFoundStyles": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#notFoundStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFoundStyles",
       "chunks": [
@@ -1942,7 +1916,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#asNotFound": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#asNotFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "asNotFound",
       "chunks": [
@@ -1950,7 +1924,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#asNotFound": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#asNotFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "asNotFound",
       "chunks": [
@@ -1958,7 +1932,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#pushRef": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#pushRef": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pushRef",
       "chunks": [
@@ -1966,7 +1940,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pushRef": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#pushRef": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pushRef",
       "chunks": [
@@ -1974,7 +1948,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#canonicalUrl": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#canonicalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "canonicalUrl",
       "chunks": [
@@ -1982,7 +1956,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#canonicalUrl": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#canonicalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "canonicalUrl",
       "chunks": [
@@ -1990,7 +1964,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#sync": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#sync": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "sync",
       "chunks": [
@@ -1998,7 +1972,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#sync": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#sync": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "sync",
       "chunks": [
@@ -2006,7 +1980,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#value": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "value",
       "chunks": [
@@ -2014,7 +1988,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#value": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "value",
       "chunks": [
@@ -2022,15 +1996,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#childNodes": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
-      "name": "childNodes",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#childNodes": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#childNodes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "childNodes",
       "chunks": [
@@ -2038,7 +2004,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#assetPrefix": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#childNodes": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "childNodes",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#assetPrefix": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "assetPrefix",
       "chunks": [
@@ -2046,7 +2020,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#assetPrefix": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#assetPrefix": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "assetPrefix",
       "chunks": [
@@ -2054,7 +2028,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\app-router.js#errorComponent": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/app-router.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "errorComponent",
       "chunks": [
@@ -2062,7 +2036,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#errorComponent": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/app-router.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "errorComponent",
       "chunks": [
@@ -2070,7 +2044,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -2078,7 +2052,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -2086,7 +2060,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -2094,7 +2068,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -2102,7 +2076,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -2110,7 +2084,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -2118,7 +2092,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -2126,7 +2100,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -2134,7 +2108,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundary": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -2142,7 +2116,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundary": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -2150,7 +2124,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#error": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#error": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "error",
       "chunks": [
@@ -2158,7 +2132,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#error": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#error": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "error",
       "chunks": [
@@ -2166,7 +2140,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#https": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#https": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "https",
       "chunks": [
@@ -2174,7 +2148,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#https": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#https": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "https",
       "chunks": [
@@ -2182,7 +2156,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontFamily": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#fontFamily": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontFamily",
       "chunks": [
@@ -2190,7 +2164,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontFamily": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#fontFamily": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontFamily",
       "chunks": [
@@ -2198,7 +2172,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#height": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#height": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "height",
       "chunks": [
@@ -2206,7 +2180,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#height": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#height": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "height",
       "chunks": [
@@ -2214,7 +2188,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#textAlign": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#textAlign": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "textAlign",
       "chunks": [
@@ -2222,7 +2196,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#textAlign": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#textAlign": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "textAlign",
       "chunks": [
@@ -2230,7 +2204,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#display": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#display": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "display",
       "chunks": [
@@ -2238,7 +2212,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#display": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#display": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "display",
       "chunks": [
@@ -2246,7 +2220,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#flexDirection": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#flexDirection": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "flexDirection",
       "chunks": [
@@ -2254,7 +2228,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#flexDirection": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#flexDirection": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "flexDirection",
       "chunks": [
@@ -2262,7 +2236,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#alignItems": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#alignItems": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "alignItems",
       "chunks": [
@@ -2270,7 +2244,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#alignItems": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#alignItems": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "alignItems",
       "chunks": [
@@ -2278,7 +2252,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#justifyContent": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#justifyContent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "justifyContent",
       "chunks": [
@@ -2286,7 +2260,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#justifyContent": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#justifyContent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "justifyContent",
       "chunks": [
@@ -2294,7 +2268,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#desc": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#desc": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "desc",
       "chunks": [
@@ -2302,7 +2276,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#desc": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#desc": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "desc",
       "chunks": [
@@ -2310,7 +2284,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#text": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#text": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "text",
       "chunks": [
@@ -2318,7 +2292,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#text": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#text": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "text",
       "chunks": [
@@ -2326,7 +2300,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontSize": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#fontSize": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontSize",
       "chunks": [
@@ -2334,7 +2308,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontSize": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#fontSize": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontSize",
       "chunks": [
@@ -2342,7 +2316,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontWeight": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#fontWeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontWeight",
       "chunks": [
@@ -2350,7 +2324,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontWeight": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#fontWeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontWeight",
       "chunks": [
@@ -2358,7 +2332,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#lineHeight": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#lineHeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "lineHeight",
       "chunks": [
@@ -2366,7 +2340,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#lineHeight": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#lineHeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "lineHeight",
       "chunks": [
@@ -2374,7 +2348,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#margin": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#margin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "margin",
       "chunks": [
@@ -2382,7 +2356,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#margin": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#margin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "margin",
       "chunks": [
@@ -2390,7 +2364,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#reset": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2398,7 +2372,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#reset": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2406,7 +2380,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#style": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#style": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "style",
       "chunks": [
@@ -2414,7 +2388,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#style": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#style": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "style",
       "chunks": [
@@ -2422,7 +2396,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#\"Digest": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#\"Digest": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "\"Digest",
       "chunks": [
@@ -2430,7 +2404,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#\"Digest": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#\"Digest": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "\"Digest",
       "chunks": [
@@ -2438,7 +2412,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorComponent": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorComponent",
       "chunks": [
@@ -2446,7 +2420,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorComponent": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorComponent",
       "chunks": [
@@ -2454,7 +2428,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorStyles": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#errorStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorStyles",
       "chunks": [
@@ -2462,7 +2436,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorStyles": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#errorStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorStyles",
       "chunks": [
@@ -2470,7 +2444,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\error-boundary.js#value": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/error-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "value",
       "chunks": [
@@ -2478,7 +2452,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#value": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/error-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "value",
       "chunks": [
@@ -2486,7 +2460,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -2494,7 +2468,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -2502,7 +2476,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -2510,7 +2484,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -2518,7 +2492,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -2526,7 +2500,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -2534,7 +2508,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -2542,7 +2516,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -2550,7 +2524,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -2558,7 +2532,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -2566,7 +2540,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirect": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/redirect-boundary.js#redirect": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirect",
       "chunks": [
@@ -2574,7 +2548,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirect": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/redirect-boundary.js#redirect": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirect",
       "chunks": [
@@ -2582,7 +2556,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirectType": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/redirect-boundary.js#redirectType": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirectType",
       "chunks": [
@@ -2590,7 +2564,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirectType": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/redirect-boundary.js#redirectType": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirectType",
       "chunks": [
@@ -2598,7 +2572,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#reset": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/redirect-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2606,7 +2580,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#reset": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/redirect-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2614,7 +2588,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#router": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/redirect-boundary.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "router",
       "chunks": [
@@ -2622,7 +2596,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#router": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/redirect-boundary.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "router",
       "chunks": [
@@ -2630,7 +2604,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#value": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/redirect-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "value",
       "chunks": [
@@ -2638,7 +2612,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#value": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/redirect-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "value",
       "chunks": [
@@ -2646,7 +2620,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -2654,7 +2628,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -2662,7 +2636,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -2670,7 +2644,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -2678,7 +2652,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -2686,7 +2660,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -2694,7 +2668,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -2702,7 +2676,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -2710,7 +2684,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -2718,7 +2692,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -2726,7 +2700,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#CacheStates": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -2734,7 +2708,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#CacheStates": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -2742,7 +2716,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#AppRouterContext": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -2750,7 +2724,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#AppRouterContext": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -2758,7 +2732,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -2766,7 +2740,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -2774,7 +2748,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -2782,7 +2756,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -2790,7 +2764,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#TemplateContext": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -2798,7 +2772,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#TemplateContext": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -2806,7 +2780,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -2814,7 +2788,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -2822,7 +2796,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -2830,7 +2804,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -2838,15 +2812,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
-      "name": "SearchParamsContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "SearchParamsContext",
       "chunks": [
@@ -2854,7 +2820,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -2862,7 +2836,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -2870,7 +2844,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -2878,7 +2852,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -2886,7 +2860,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -2894,7 +2868,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -2902,15 +2876,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
-      "name": "ServerInsertedHTMLContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "ServerInsertedHTMLContext",
       "chunks": [
@@ -2918,7 +2884,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -2926,7 +2900,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -2934,7 +2908,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -2942,7 +2916,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -2950,7 +2924,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\layout-router.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -2958,7 +2932,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -2966,7 +2940,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\layout-router.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -2974,7 +2948,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -2982,7 +2956,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -2990,7 +2964,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -2998,7 +2972,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -3006,7 +2980,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -3014,7 +2988,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -3022,7 +2996,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -3030,7 +3004,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -3038,7 +3012,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -3046,7 +3020,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -3054,7 +3028,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -3062,7 +3036,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -3070,7 +3044,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -3078,809 +3052,785 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\globals.css#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/globals.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Roboto\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"300\",\"400\",\"500\",\"700\",\"900\"],\"display\":\"swap\"}],\"variableName\":\"roboto\"}#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Roboto\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"300\",\"400\",\"500\",\"700\",\"900\"],\"display\":\"swap\"}],\"variableName\":\"roboto\"}#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\image.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\image.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\image.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/image.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\image.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/image.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\image.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/image.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\image.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/image.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\link.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\link.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\link.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\link.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\client\\link.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/client/link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/client/link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js#default": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js#default": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js#defaultHead": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#defaultHead": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js#charSet": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js#charSet": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#charSet": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js#charSet": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js#name": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js#name": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#name": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js#name": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js#content": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js#content": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#content": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js#content": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js#\"title\"": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js#\"title\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"title\"": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js#\"title\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js#\"base\"": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js#\"base\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"base\"": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js#\"base\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js#\"meta\"": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js#\"meta\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"meta\"": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js#\"meta\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js#TODO(prateekbh@)": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js#TODO(prateekbh@)": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#TODO(prateekbh@)": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js#TODO(prateekbh@)": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js#\"https": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js#\"https": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"https": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js#\"https": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js#here": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js#here": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#here": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js#here": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js#https": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js#https": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#https": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js#https": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js#reduceComponentsToState": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js#reduceComponentsToState": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#reduceComponentsToState": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js#reduceComponentsToState": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js#headManager": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js#headManager": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#headManager": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js#headManager": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js#inAmpMode": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js#inAmpMode": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#inAmpMode": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js#inAmpMode": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\shared\\lib\\head.js#value": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/shared/lib/head.js#value": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#value": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/node_modules/next/dist/esm/shared/lib/head.js#value": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\fixed-plugin.tsx": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/components/fixed-plugin.tsx": {
       "id": "(app-client)/./src/components/fixed-plugin.tsx",
       "name": "*",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\fixed-plugin.tsx#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/components/fixed-plugin.tsx#": {
       "id": "(app-client)/./src/components/fixed-plugin.tsx",
       "name": "",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\fixed-plugin.tsx#FixedPlugin": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/components/fixed-plugin.tsx#FixedPlugin": {
       "id": "(app-client)/./src/components/fixed-plugin.tsx",
       "name": "FixedPlugin",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\index.ts": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/components/index.ts": {
       "id": "(app-client)/./src/components/index.ts",
       "name": "*",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\index.ts#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/components/index.ts#": {
       "id": "(app-client)/./src/components/index.ts",
       "name": "",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\index.ts#BackgroundCard": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/components/index.ts#BackgroundCard": {
       "id": "(app-client)/./src/components/index.ts",
       "name": "BackgroundCard",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\index.ts#CourseCard": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/components/index.ts#CourseCard": {
       "id": "(app-client)/./src/components/index.ts",
       "name": "CourseCard",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\index.ts#FeatureCard": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/components/index.ts#FeatureCard": {
       "id": "(app-client)/./src/components/index.ts",
       "name": "FeatureCard",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\index.ts#FixedPlugin": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/components/index.ts#FixedPlugin": {
       "id": "(app-client)/./src/components/index.ts",
       "name": "FixedPlugin",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\index.ts#Footer": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/components/index.ts#Footer": {
       "id": "(app-client)/./src/components/index.ts",
       "name": "Footer",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\index.ts#Layout": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/components/index.ts#Layout": {
       "id": "(app-client)/./src/components/index.ts",
       "name": "Layout",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\index.ts#Navbar": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/components/index.ts#Navbar": {
       "id": "(app-client)/./src/components/index.ts",
       "name": "Navbar",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\layout.tsx": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/components/layout.tsx": {
       "id": "(app-client)/./src/components/layout.tsx",
       "name": "*",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\layout.tsx#": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/components/layout.tsx#": {
       "id": "(app-client)/./src/components/layout.tsx",
       "name": "",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\layout.tsx#Layout": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/components/layout.tsx#Layout": {
       "id": "(app-client)/./src/components/layout.tsx",
       "name": "Layout",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\layout.tsx#default": {
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/components/layout.tsx#default": {
       "id": "(app-client)/./src/components/layout.tsx",
       "name": "default",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\carousel-features.tsx": {
-      "id": "(app-client)/./src/app/carousel-features.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/offerings/hero.tsx": {
+      "id": "(app-client)/./src/app/offerings/hero.tsx",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/offerings/page:static/chunks/app/offerings/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\carousel-features.tsx#": {
-      "id": "(app-client)/./src/app/carousel-features.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/offerings/hero.tsx#": {
+      "id": "(app-client)/./src/app/offerings/hero.tsx",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/offerings/page:static/chunks/app/offerings/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\carousel-features.tsx#CarouselFeatures": {
-      "id": "(app-client)/./src/app/carousel-features.tsx",
-      "name": "CarouselFeatures",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\carousel-features.tsx#default": {
-      "id": "(app-client)/./src/app/carousel-features.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/offerings/hero.tsx#default": {
+      "id": "(app-client)/./src/app/offerings/hero.tsx",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/offerings/page:static/chunks/app/offerings/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\hero.tsx": {
-      "id": "(app-client)/./src/app/hero.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/offerings/other-courses.tsx": {
+      "id": "(app-client)/./src/app/offerings/other-courses.tsx",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/offerings/page:static/chunks/app/offerings/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\hero.tsx#": {
-      "id": "(app-client)/./src/app/hero.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/offerings/other-courses.tsx#": {
+      "id": "(app-client)/./src/app/offerings/other-courses.tsx",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/offerings/page:static/chunks/app/offerings/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\hero.tsx#default": {
-      "id": "(app-client)/./src/app/hero.tsx",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\online-course.tsx": {
-      "id": "(app-client)/./src/app/online-course.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\online-course.tsx#": {
-      "id": "(app-client)/./src/app/online-course.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\online-course.tsx#OnlineCourse": {
-      "id": "(app-client)/./src/app/online-course.tsx",
-      "name": "OnlineCourse",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\online-course.tsx#default": {
-      "id": "(app-client)/./src/app/online-course.tsx",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\other-courses.tsx": {
-      "id": "(app-client)/./src/app/other-courses.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\other-courses.tsx#": {
-      "id": "(app-client)/./src/app/other-courses.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\other-courses.tsx#OtherCourses": {
-      "id": "(app-client)/./src/app/other-courses.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/offerings/other-courses.tsx#OtherCourses": {
+      "id": "(app-client)/./src/app/offerings/other-courses.tsx",
       "name": "OtherCourses",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/offerings/page:static/chunks/app/offerings/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\other-courses.tsx#default": {
-      "id": "(app-client)/./src/app/other-courses.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/offerings/other-courses.tsx#default": {
+      "id": "(app-client)/./src/app/offerings/other-courses.tsx",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/offerings/page:static/chunks/app/offerings/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\pricing.tsx": {
-      "id": "(app-client)/./src/app/pricing.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/teacher-training-courses/hero.tsx": {
+      "id": "(app-client)/./src/app/teacher-training-courses/hero.tsx",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\pricing.tsx#": {
-      "id": "(app-client)/./src/app/pricing.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/teacher-training-courses/hero.tsx#": {
+      "id": "(app-client)/./src/app/teacher-training-courses/hero.tsx",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\pricing.tsx#Pricing": {
-      "id": "(app-client)/./src/app/pricing.tsx",
-      "name": "Pricing",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\pricing.tsx#default": {
-      "id": "(app-client)/./src/app/pricing.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/teacher-training-courses/hero.tsx#default": {
+      "id": "(app-client)/./src/app/teacher-training-courses/hero.tsx",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\why-choose-us.tsx": {
-      "id": "(app-client)/./src/app/why-choose-us.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/teacher-training-courses/more-details.tsx": {
+      "id": "(app-client)/./src/app/teacher-training-courses/more-details.tsx",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\why-choose-us.tsx#": {
-      "id": "(app-client)/./src/app/why-choose-us.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/teacher-training-courses/more-details.tsx#": {
+      "id": "(app-client)/./src/app/teacher-training-courses/more-details.tsx",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\why-choose-us.tsx#WhyChooseUs": {
-      "id": "(app-client)/./src/app/why-choose-us.tsx",
-      "name": "WhyChooseUs",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\why-choose-us.tsx#default": {
-      "id": "(app-client)/./src/app/why-choose-us.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/teacher-training-courses/more-details.tsx#default": {
+      "id": "(app-client)/./src/app/teacher-training-courses/more-details.tsx",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\(activities)\\activities\\hero.tsx": {
-      "id": "(app-client)/./src/app/(activities)/activities/hero.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/teacher-training-courses/teacher-course.tsx": {
+      "id": "(app-client)/./src/app/teacher-training-courses/teacher-course.tsx",
       "name": "*",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\(activities)\\activities\\hero.tsx#": {
-      "id": "(app-client)/./src/app/(activities)/activities/hero.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/teacher-training-courses/teacher-course.tsx#": {
+      "id": "(app-client)/./src/app/teacher-training-courses/teacher-course.tsx",
       "name": "",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\(activities)\\activities\\hero.tsx#default": {
-      "id": "(app-client)/./src/app/(activities)/activities/hero.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/teacher-training-courses/teacher-course.tsx#TeacherCourse": {
+      "id": "(app-client)/./src/app/teacher-training-courses/teacher-course.tsx",
+      "name": "TeacherCourse",
+      "chunks": [
+        "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
+      ],
+      "async": false
+    },
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/teacher-training-courses/teacher-course.tsx#default": {
+      "id": "(app-client)/./src/app/teacher-training-courses/teacher-course.tsx",
       "name": "default",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/teacher-training-courses/page:static/chunks/app/teacher-training-courses/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\(program)\\cognitive-learning\\page.tsx": {
-      "id": "(app-client)/./src/app/(program)/cognitive-learning/page.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/guide-focus/hero.tsx": {
+      "id": "(app-client)/./src/app/guide-focus/hero.tsx",
       "name": "*",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\(program)\\cognitive-learning\\page.tsx#": {
-      "id": "(app-client)/./src/app/(program)/cognitive-learning/page.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/guide-focus/hero.tsx#": {
+      "id": "(app-client)/./src/app/guide-focus/hero.tsx",
       "name": "",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\(program)\\cognitive-learning\\page.tsx#default": {
-      "id": "(app-client)/./src/app/(program)/cognitive-learning/page.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/guide-focus/hero.tsx#default": {
+      "id": "(app-client)/./src/app/guide-focus/hero.tsx",
       "name": "default",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\program\\cognitiveCard.tsx": {
-      "id": "(app-client)/./src/components/program/cognitiveCard.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/guide-focus/role-teacher.tsx": {
+      "id": "(app-client)/./src/app/guide-focus/role-teacher.tsx",
       "name": "*",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\program\\cognitiveCard.tsx#": {
-      "id": "(app-client)/./src/components/program/cognitiveCard.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/guide-focus/role-teacher.tsx#": {
+      "id": "(app-client)/./src/app/guide-focus/role-teacher.tsx",
       "name": "",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\program\\cognitiveCard.tsx#default": {
-      "id": "(app-client)/./src/components/program/cognitiveCard.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/guide-focus/role-teacher.tsx#RoleTeacher": {
+      "id": "(app-client)/./src/app/guide-focus/role-teacher.tsx",
+      "name": "RoleTeacher",
+      "chunks": [
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
+      ],
+      "async": false
+    },
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/guide-focus/role-teacher.tsx#default": {
+      "id": "(app-client)/./src/app/guide-focus/role-teacher.tsx",
       "name": "default",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\program\\curriculum.tsx": {
-      "id": "(app-client)/./src/components/program/curriculum.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/guide-focus/skill-up-teacher.tsx": {
+      "id": "(app-client)/./src/app/guide-focus/skill-up-teacher.tsx",
       "name": "*",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\program\\curriculum.tsx#": {
-      "id": "(app-client)/./src/components/program/curriculum.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/guide-focus/skill-up-teacher.tsx#": {
+      "id": "(app-client)/./src/app/guide-focus/skill-up-teacher.tsx",
       "name": "",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\program\\curriculum.tsx#default": {
-      "id": "(app-client)/./src/components/program/curriculum.tsx",
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/guide-focus/skill-up-teacher.tsx#SkillUpTeacher": {
+      "id": "(app-client)/./src/app/guide-focus/skill-up-teacher.tsx",
+      "name": "SkillUpTeacher",
+      "chunks": [
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
+      ],
+      "async": false
+    },
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/guide-focus/skill-up-teacher.tsx#default": {
+      "id": "(app-client)/./src/app/guide-focus/skill-up-teacher.tsx",
       "name": "default",
       "chunks": [
-        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
+      ],
+      "async": false
+    },
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/guide-focus/why-become-teacher.tsx": {
+      "id": "(app-client)/./src/app/guide-focus/why-become-teacher.tsx",
+      "name": "*",
+      "chunks": [
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
+      ],
+      "async": false
+    },
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/guide-focus/why-become-teacher.tsx#": {
+      "id": "(app-client)/./src/app/guide-focus/why-become-teacher.tsx",
+      "name": "",
+      "chunks": [
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
+      ],
+      "async": false
+    },
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/guide-focus/why-become-teacher.tsx#WhyBecomeTeacher": {
+      "id": "(app-client)/./src/app/guide-focus/why-become-teacher.tsx",
+      "name": "WhyBecomeTeacher",
+      "chunks": [
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
+      ],
+      "async": false
+    },
+    "/Users/iclimbsystems/Personal Work/shikshakdwar/src/app/guide-focus/why-become-teacher.tsx#default": {
+      "id": "(app-client)/./src/app/guide-focus/why-become-teacher.tsx",
+      "name": "default",
+      "chunks": [
+        "app/guide-focus/page:static/chunks/app/guide-focus/page.js"
       ],
       "async": false
     }
