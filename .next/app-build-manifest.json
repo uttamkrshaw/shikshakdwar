@@ -1,30 +1,20 @@
 {
   "pages": {
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
-    ],
     "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/guide-focus/page": [
+    "/(activities)/knowledge-enhancement/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/guide-focus/page.js"
+      "static/chunks/app/(activities)/knowledge-enhancement/page.js"
     ],
-    "/offerings/page": [
+    "/activities/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/offerings/page.js"
-    ],
-    "/teacher-training-courses/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/teacher-training-courses/page.js"
+      "static/chunks/app/activities/page.js"
     ]
   }
 }
