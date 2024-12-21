@@ -39,7 +39,7 @@ function Option({ icon: Icon, title, children }: OptionProps) {
 
 export function WhyBecomeTeacher() {
   return (
-    <section className="w-full max-w-4xl mx-auto flex flex-col items-center px-4 py-10">
+    <section className="w-full max-w-6xl mx-auto flex flex-col items-center px-2 py-10">
       <Typography variant="h2" className="text-center mb-2" color="blue-gray">
         Why Become a Teacher?
       </Typography>
@@ -49,12 +49,12 @@ export function WhyBecomeTeacher() {
       >
         Becoming a teacher means shaping minds, sparking curiosity, and making a lasting impact. It’s a chance to inspire, guide, and empower students to reach their full potential. Teachers nurture critical thinkers and compassionate individuals, contributing to a better future. It’s not just a profession—it’s a calling to change lives.      </Typography>
       <div className="mt-8">
-        <div className="grid grid-cols-1 items-center md:grid-cols-2 gap-12 mb-24">
-          <BackgroundCard title="Expert Instructors">
+        <div className="items-center gap-12 mb-24">
+          {/* <BackgroundCard title="Expert Instructors">
             Learn from industry professionals with years of hands-on experience
             in React development.
-          </BackgroundCard>
-          <div className="space-y-8">
+          </BackgroundCard> */}
+          <div className="space-y-8 mx-auto">
             <div className="my-4">
               <Option icon={CloudIcon} title="The Power of Teaching: Shaping Futures">
                 Choosing to become a teacher means making a lasting difference by shaping young minds and futures. Teachers nurture curiosity, foster personal growth, and ignite a passion for learning. Forget stuffy classrooms—teaching is a dynamic symphony of creativity and impact, where each day offers new opportunities to inspire and guide.

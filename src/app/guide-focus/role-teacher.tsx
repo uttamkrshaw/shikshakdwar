@@ -39,26 +39,25 @@ function Option({ icon: Icon, title, children }: OptionProps) {
 
 export function RoleTeacher() {
   return (
-    <section className="w-full max-w-4xl mx-auto flex flex-col items-center px-4 py-10">
+    <section className="w-full max-w-4xl mx-auto flex flex-col items-center px-4 py-2">
       <Typography variant="h2" className="text-center mb-2" color="blue-gray">
         The Role and Responsibilities of a Teacher?
       </Typography>
       <Typography
-
         variant="lead"
         className="mb-16 w-full text-center font-normal !text-gray-500 lg:w-10/12"
       >
         A teacher’s role extends beyond instruction; they inspire, guide, and support students in their learning journey. Teachers foster critical thinking, creativity, and personal growth, creating a safe and inclusive environment. They act as mentors, role models, and motivators, shaping individuals to reach their potential and contribute meaningfully to society.
       </Typography>
       <div className="mt-8">
-        <div className="grid grid-cols-1 items-center md:grid-cols-2 gap-12 mb-24">
-          <BackgroundCard title="Expert Instructors">
+        <div className="items-center gap-12 mb-24">
+          {/* <BackgroundCard title="Expert Instructors">
             Learn from industry professionals with years of hands-on experience
             in React development.
-          </BackgroundCard>
-          <div className="space-y-8">
+          </BackgroundCard> */}
+          <div className="space-y-8 mx-auto">
             <div className="my-4">
-              <Option icon={CloudIcon} title="Characteristics of na Ideal Teacher">
+              <Option icon={CloudIcon} title="Characteristics of an Ideal Teacher">
                 An ideal teacher embodies compassion, passion, and patience, understanding each student’s background and needs. They inspire through role modeling, effective communication, and dedication, fostering curiosity and a love for learning. By embracing inclusivity and celebrating individuality, they create supportive, equitable environments that nurture growth and leave lasting, positive impacts.
               </Option>
             </div>

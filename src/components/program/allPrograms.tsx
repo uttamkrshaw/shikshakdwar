@@ -15,7 +15,7 @@ const programs = [
     description:
       "Master the art of critical and creative thinking with advanced techniques and tools.",
     image: "/image/program/acadmic_bg.png",
-    link: "/cognitive-learning",
+    link: "/cognitive-learning-mastery",
   },
   {
     title: "Cyber Security Programs",
