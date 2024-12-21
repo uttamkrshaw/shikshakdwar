@@ -6,15 +6,40 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/(activities)/activities/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(activities)/activities/page.js"
+    ],
     "/(activities)/knowledge-enhancement/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/(activities)/knowledge-enhancement/page.js"
     ],
-    "/activities/page": [
+    "/(activities)/destination-workshop/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/activities/page.js"
+      "static/chunks/app/(activities)/destination-workshop/page.js"
+    ],
+    "/(activities)/parents-workshop/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(activities)/parents-workshop/page.js"
+    ],
+    "/(activities)/children-workshop/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(activities)/children-workshop/page.js"
+    ],
+    "/(activities)/stress-to-strength/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(activities)/stress-to-strength/page.js"
     ]
   }
 }

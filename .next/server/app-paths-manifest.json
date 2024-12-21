@@ -1,4 +1,4 @@
 {
-  "/activities/page": "app/activities/page.js",
+  "/(activities)/stress-to-strength/page": "app/(activities)/stress-to-strength/page.js",
   "/(activities)/knowledge-enhancement/page": "app/(activities)/knowledge-enhancement/page.js"
 }
