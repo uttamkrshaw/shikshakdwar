@@ -31,7 +31,7 @@ const OTHER_COURSES = [
     title: "Cyber Security Programs",
     desc: "Prepare for the growing demand in cyber security with hands-on training in protecting systems and data from evolving threats.",
     buttonLabel: "Explore",
-    link: "/teacher-training-courses"
+    link: "/cyber-security"
 
   },
   {
@@ -39,7 +39,7 @@ const OTHER_COURSES = [
     title: "Cognitive Learning Mastery",
     desc: "Unlock the potential of cognitive learning theories to improve memory, problem-solving, and critical thinking in your teaching methods.",
     buttonLabel: "Explore",
-    link: "/teacher-training-courses"
+    link: "/cognitive-learning-mastery"
 
   },
   {

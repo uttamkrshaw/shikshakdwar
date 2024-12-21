@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/guide-focus/page": "app/guide-focus/page.js",
+  "/offerings/page": "app/offerings/page.js",
+  "/teacher-training-courses/page": "app/teacher-training-courses/page.js"
+}
