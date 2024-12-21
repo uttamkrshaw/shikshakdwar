@@ -57,7 +57,7 @@ function Hero({ heading, subheading, backgroundImage }: HeroProps) {
           <Typography
             variant="lead"
             color="white"
-            className="mt-6 mb-10 w-full md:max-w-full lg:max-w-4xl"
+            className="mt-6 mb-10 text-3xl w-full md:max-w-full lg:max-w-4xl"
           >
             {subheading}
           </Typography>

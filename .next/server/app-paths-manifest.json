@@ -1,4 +1,3 @@
 {
-  "/(activities)/stress-to-strength/page": "app/(activities)/stress-to-strength/page.js",
-  "/(activities)/knowledge-enhancement/page": "app/(activities)/knowledge-enhancement/page.js"
+  "/(program)/cognitive-learning/page": "app/(program)/cognitive-learning/page.js"
 }

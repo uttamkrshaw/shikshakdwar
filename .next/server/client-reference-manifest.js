@@ -747,7 +747,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "*",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -755,7 +755,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -763,7 +763,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "default",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       }
@@ -773,7 +773,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "*",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -781,7 +781,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -789,7 +789,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "default",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       }
@@ -799,7 +799,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "*",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -807,7 +807,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -815,7 +815,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "default",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -823,7 +823,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "defaultHead",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -831,7 +831,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "charSet",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -839,7 +839,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "name",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -847,7 +847,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "content",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -855,7 +855,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"title\"",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -863,7 +863,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"base\"",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -871,7 +871,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"meta\"",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -879,7 +879,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "TODO(prateekbh@)",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -887,7 +887,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"https",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -895,7 +895,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "here",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -903,7 +903,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "https",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -911,7 +911,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "reduceComponentsToState",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -919,7 +919,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "headManager",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -927,7 +927,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "inAmpMode",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -935,7 +935,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "value",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       }
@@ -945,7 +945,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/fixed-plugin.tsx",
         "name": "*",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -953,7 +953,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/fixed-plugin.tsx",
         "name": "",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -961,7 +961,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/fixed-plugin.tsx",
         "name": "FixedPlugin",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       }
@@ -971,7 +971,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "*",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -979,7 +979,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -987,7 +987,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "BackgroundCard",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -995,7 +995,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "CourseCard",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -1003,7 +1003,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "FeatureCard",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -1011,7 +1011,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "FixedPlugin",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -1019,7 +1019,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "Footer",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -1027,7 +1027,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "Layout",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -1035,7 +1035,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/index.ts",
         "name": "Navbar",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       }
@@ -1045,7 +1045,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/layout.tsx",
         "name": "*",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -1053,7 +1053,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/layout.tsx",
         "name": "",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -1061,7 +1061,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/layout.tsx",
         "name": "Layout",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -1069,7 +1069,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/components/layout.tsx",
         "name": "default",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       }
@@ -1270,46 +1270,12 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./src/app/(activities)/activities/allActivites.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/(activities)/activities/allActivites.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(activities)/activities/page:static/chunks/app/(activities)/activities/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/(activities)/activities/allActivites.tsx",
-        "name": "",
-        "chunks": [
-          "app/(activities)/activities/page:static/chunks/app/(activities)/activities/page.js"
-        ],
-        "async": false
-      },
-      "AllActivities": {
-        "id": "(sc_client)/./src/app/(activities)/activities/allActivites.tsx",
-        "name": "AllActivities",
-        "chunks": [
-          "app/(activities)/activities/page:static/chunks/app/(activities)/activities/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/(activities)/activities/allActivites.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(activities)/activities/page:static/chunks/app/(activities)/activities/page.js"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./src/app/(activities)/activities/hero.tsx": {
       "*": {
         "id": "(sc_client)/./src/app/(activities)/activities/hero.tsx",
         "name": "*",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -1317,7 +1283,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/app/(activities)/activities/hero.tsx",
         "name": "",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
@@ -1325,85 +1291,85 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/app/(activities)/activities/hero.tsx",
         "name": "default",
         "chunks": [
-          "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./src/components/activity/left.tsx": {
+    "(app-client)/./src/app/(program)/cognitive-learning/page.tsx": {
       "*": {
-        "id": "(sc_client)/./src/components/activity/left.tsx",
+        "id": "(sc_client)/./src/app/(program)/cognitive-learning/page.tsx",
         "name": "*",
         "chunks": [
-          "app/(activities)/knowledge-enhancement/page:static/chunks/app/(activities)/knowledge-enhancement/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./src/components/activity/left.tsx",
+        "id": "(sc_client)/./src/app/(program)/cognitive-learning/page.tsx",
         "name": "",
         "chunks": [
-          "app/(activities)/knowledge-enhancement/page:static/chunks/app/(activities)/knowledge-enhancement/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./src/components/activity/left.tsx",
+        "id": "(sc_client)/./src/app/(program)/cognitive-learning/page.tsx",
         "name": "default",
         "chunks": [
-          "app/(activities)/knowledge-enhancement/page:static/chunks/app/(activities)/knowledge-enhancement/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./src/components/activity/right.tsx": {
+    "(app-client)/./src/components/program/cognitiveCard.tsx": {
       "*": {
-        "id": "(sc_client)/./src/components/activity/right.tsx",
+        "id": "(sc_client)/./src/components/program/cognitiveCard.tsx",
         "name": "*",
         "chunks": [
-          "app/(activities)/knowledge-enhancement/page:static/chunks/app/(activities)/knowledge-enhancement/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./src/components/activity/right.tsx",
+        "id": "(sc_client)/./src/components/program/cognitiveCard.tsx",
         "name": "",
         "chunks": [
-          "app/(activities)/knowledge-enhancement/page:static/chunks/app/(activities)/knowledge-enhancement/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./src/components/activity/right.tsx",
+        "id": "(sc_client)/./src/components/program/cognitiveCard.tsx",
         "name": "default",
         "chunks": [
-          "app/(activities)/knowledge-enhancement/page:static/chunks/app/(activities)/knowledge-enhancement/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./src/components/activity/destinationCard.tsx": {
+    "(app-client)/./src/components/program/curriculum.tsx": {
       "*": {
-        "id": "(sc_client)/./src/components/activity/destinationCard.tsx",
+        "id": "(sc_client)/./src/components/program/curriculum.tsx",
         "name": "*",
         "chunks": [
-          "app/(activities)/children-workshop/page:static/chunks/app/(activities)/children-workshop/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./src/components/activity/destinationCard.tsx",
+        "id": "(sc_client)/./src/components/program/curriculum.tsx",
         "name": "",
         "chunks": [
-          "app/(activities)/children-workshop/page:static/chunks/app/(activities)/children-workshop/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./src/components/activity/destinationCard.tsx",
+        "id": "(sc_client)/./src/components/program/curriculum.tsx",
         "name": "default",
         "chunks": [
-          "app/(activities)/children-workshop/page:static/chunks/app/(activities)/children-workshop/page.js"
+          "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
         ],
         "async": false
       }
@@ -3130,7 +3096,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3138,7 +3104,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3146,7 +3112,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3154,7 +3120,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3162,7 +3128,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3170,7 +3136,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3178,7 +3144,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3186,7 +3152,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3194,7 +3160,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3202,7 +3168,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3210,7 +3176,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3218,7 +3184,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3226,7 +3192,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3234,7 +3200,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3242,7 +3208,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3250,7 +3216,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3258,7 +3224,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3266,7 +3232,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3274,7 +3240,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3282,7 +3248,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3290,7 +3256,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3298,7 +3264,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3306,7 +3272,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3314,7 +3280,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3322,7 +3288,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3330,7 +3296,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3338,7 +3304,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3346,7 +3312,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3354,7 +3320,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3362,7 +3328,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3370,7 +3336,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3378,7 +3344,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3386,7 +3352,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3394,7 +3360,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3402,7 +3368,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3410,7 +3376,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3418,7 +3384,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3426,7 +3392,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3434,7 +3400,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3442,7 +3408,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3450,7 +3416,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3458,7 +3424,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3466,7 +3432,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3474,7 +3440,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3482,7 +3448,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3490,7 +3456,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3498,7 +3464,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3506,7 +3472,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3514,7 +3480,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/components/fixed-plugin.tsx",
       "name": "*",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3522,7 +3488,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/components/fixed-plugin.tsx",
       "name": "",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3530,7 +3496,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/components/fixed-plugin.tsx",
       "name": "FixedPlugin",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3538,7 +3504,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/components/index.ts",
       "name": "*",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3546,7 +3512,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/components/index.ts",
       "name": "",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3554,7 +3520,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/components/index.ts",
       "name": "BackgroundCard",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3562,7 +3528,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/components/index.ts",
       "name": "CourseCard",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3570,7 +3536,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/components/index.ts",
       "name": "FeatureCard",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3578,7 +3544,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/components/index.ts",
       "name": "FixedPlugin",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3586,7 +3552,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/components/index.ts",
       "name": "Footer",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3594,7 +3560,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/components/index.ts",
       "name": "Layout",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3602,7 +3568,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/components/index.ts",
       "name": "Navbar",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3610,7 +3576,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/components/layout.tsx",
       "name": "*",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3618,7 +3584,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/components/layout.tsx",
       "name": "",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3626,7 +3592,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/components/layout.tsx",
       "name": "Layout",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3634,7 +3600,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/components/layout.tsx",
       "name": "default",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3822,43 +3788,11 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\(activities)\\activities\\allActivites.tsx": {
-      "id": "(app-client)/./src/app/(activities)/activities/allActivites.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(activities)/activities/page:static/chunks/app/(activities)/activities/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\(activities)\\activities\\allActivites.tsx#": {
-      "id": "(app-client)/./src/app/(activities)/activities/allActivites.tsx",
-      "name": "",
-      "chunks": [
-        "app/(activities)/activities/page:static/chunks/app/(activities)/activities/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\(activities)\\activities\\allActivites.tsx#AllActivities": {
-      "id": "(app-client)/./src/app/(activities)/activities/allActivites.tsx",
-      "name": "AllActivities",
-      "chunks": [
-        "app/(activities)/activities/page:static/chunks/app/(activities)/activities/page.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\(activities)\\activities\\allActivites.tsx#default": {
-      "id": "(app-client)/./src/app/(activities)/activities/allActivites.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(activities)/activities/page:static/chunks/app/(activities)/activities/page.js"
-      ],
-      "async": false
-    },
     "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\(activities)\\activities\\hero.tsx": {
       "id": "(app-client)/./src/app/(activities)/activities/hero.tsx",
       "name": "*",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3866,7 +3800,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/app/(activities)/activities/hero.tsx",
       "name": "",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
@@ -3874,79 +3808,79 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/app/(activities)/activities/hero.tsx",
       "name": "default",
       "chunks": [
-        "app/(activities)/stress-to-strength/page:static/chunks/app/(activities)/stress-to-strength/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\activity\\left.tsx": {
-      "id": "(app-client)/./src/components/activity/left.tsx",
+    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\(program)\\cognitive-learning\\page.tsx": {
+      "id": "(app-client)/./src/app/(program)/cognitive-learning/page.tsx",
       "name": "*",
       "chunks": [
-        "app/(activities)/knowledge-enhancement/page:static/chunks/app/(activities)/knowledge-enhancement/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\activity\\left.tsx#": {
-      "id": "(app-client)/./src/components/activity/left.tsx",
+    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\(program)\\cognitive-learning\\page.tsx#": {
+      "id": "(app-client)/./src/app/(program)/cognitive-learning/page.tsx",
       "name": "",
       "chunks": [
-        "app/(activities)/knowledge-enhancement/page:static/chunks/app/(activities)/knowledge-enhancement/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\activity\\left.tsx#default": {
-      "id": "(app-client)/./src/components/activity/left.tsx",
+    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\app\\(program)\\cognitive-learning\\page.tsx#default": {
+      "id": "(app-client)/./src/app/(program)/cognitive-learning/page.tsx",
       "name": "default",
       "chunks": [
-        "app/(activities)/knowledge-enhancement/page:static/chunks/app/(activities)/knowledge-enhancement/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\activity\\right.tsx": {
-      "id": "(app-client)/./src/components/activity/right.tsx",
+    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\program\\cognitiveCard.tsx": {
+      "id": "(app-client)/./src/components/program/cognitiveCard.tsx",
       "name": "*",
       "chunks": [
-        "app/(activities)/knowledge-enhancement/page:static/chunks/app/(activities)/knowledge-enhancement/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\activity\\right.tsx#": {
-      "id": "(app-client)/./src/components/activity/right.tsx",
+    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\program\\cognitiveCard.tsx#": {
+      "id": "(app-client)/./src/components/program/cognitiveCard.tsx",
       "name": "",
       "chunks": [
-        "app/(activities)/knowledge-enhancement/page:static/chunks/app/(activities)/knowledge-enhancement/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\activity\\right.tsx#default": {
-      "id": "(app-client)/./src/components/activity/right.tsx",
+    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\program\\cognitiveCard.tsx#default": {
+      "id": "(app-client)/./src/components/program/cognitiveCard.tsx",
       "name": "default",
       "chunks": [
-        "app/(activities)/knowledge-enhancement/page:static/chunks/app/(activities)/knowledge-enhancement/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\activity\\destinationCard.tsx": {
-      "id": "(app-client)/./src/components/activity/destinationCard.tsx",
+    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\program\\curriculum.tsx": {
+      "id": "(app-client)/./src/components/program/curriculum.tsx",
       "name": "*",
       "chunks": [
-        "app/(activities)/children-workshop/page:static/chunks/app/(activities)/children-workshop/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\activity\\destinationCard.tsx#": {
-      "id": "(app-client)/./src/components/activity/destinationCard.tsx",
+    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\program\\curriculum.tsx#": {
+      "id": "(app-client)/./src/components/program/curriculum.tsx",
       "name": "",
       "chunks": [
-        "app/(activities)/children-workshop/page:static/chunks/app/(activities)/children-workshop/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     },
-    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\activity\\destinationCard.tsx#default": {
-      "id": "(app-client)/./src/components/activity/destinationCard.tsx",
+    "C:\\Users\\Iclimb System\\Desktop\\sql\\shikshakdwar\\src\\components\\program\\curriculum.tsx#default": {
+      "id": "(app-client)/./src/components/program/curriculum.tsx",
       "name": "default",
       "chunks": [
-        "app/(activities)/children-workshop/page:static/chunks/app/(activities)/children-workshop/page.js"
+        "app/(program)/cognitive-learning/page:static/chunks/app/(program)/cognitive-learning/page.js"
       ],
       "async": false
     }
