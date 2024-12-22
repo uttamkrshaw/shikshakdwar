@@ -14,6 +14,7 @@ import DetailCardLeft from "@/components/detailCardleft";
 import DetailCardRight from "@/components/detailCardright";
 import CompaniesCards from "@/components/comapnies";
 import PartnerCards from "@/components/partners";
+import MultiCarousel from "@/components/multicarousel";
 
 export default function Campaign() {
   return (
@@ -50,6 +51,7 @@ export default function Campaign() {
       />
       <CompaniesCards />
       <PartnerCards />
+      {/* <MultiCarousel /> */}
       {/* <Hero /> */}
       {/* <OnlineCourse />
       <WhyChooseUs />

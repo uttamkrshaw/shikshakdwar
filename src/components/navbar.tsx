@@ -61,7 +61,7 @@ export function Navbar() {
       fullWidth
       shadow={false}
       blurred={false}
-      color={isScrolling ? "white" : "transparent"}
+      color={isScrolling ? "black" : "transparent"}
       className="fixed top-0 z-50 border-0"
     >
       <div className="container mx-auto flex items-center justify-between">
