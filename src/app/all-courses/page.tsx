@@ -1,7 +1,7 @@
 import { Footer, Navbar } from '@/components'
 import React from 'react'
-import Hero from '../all-courses/hero'
-import OtherCourses from '../all-courses/other-courses'
+import Hero from './hero'
+import OtherCourses from './other-courses'
 
 const page = () => {
   return (
