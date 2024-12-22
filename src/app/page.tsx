@@ -12,6 +12,8 @@ import { CarouselTransition } from "@/components/CarouselTransition";
 import DestinationCard from "@/components/activity/destinationCard";
 import DetailCardLeft from "@/components/detailCardleft";
 import DetailCardRight from "@/components/detailCardright";
+import CompaniesCards from "@/components/comapnies";
+import PartnerCards from "@/components/partners";
 
 export default function Campaign() {
   return (
@@ -46,13 +48,14 @@ export default function Campaign() {
         subheading2="To Connect learners through accessible and inclusive platforms, breaking down geographical barriers and equip learners with practical skills. To leverage education as a tool for positive social change by addressing challenges, promoting sustainability, and instilling a sense of responsibility in learners"
         image="/image/home/objective.jpg"
       />
-
+      <CompaniesCards />
+      <PartnerCards />
       {/* <Hero /> */}
-      <OnlineCourse />
+      {/* <OnlineCourse />
       <WhyChooseUs />
       <CarouselFeatures />
       <Pricing />
-      <OtherCourses />
+      <OtherCourses /> */}
       <Footer />
     </>
   );
