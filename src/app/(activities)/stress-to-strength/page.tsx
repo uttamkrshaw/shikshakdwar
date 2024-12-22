@@ -1,8 +1,7 @@
 
 import Hero from "@/app/(activities)/activities/hero";
 import { Footer, Navbar } from "@/components";
-import SelfCare from "@/components/activity/left";
-import RightKnowledge from "@/components/activity/right";
+
 import StressCard from "@/components/activity/stressCard";
 
 import React from "react";

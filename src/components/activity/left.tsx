@@ -3,16 +3,17 @@ import React from "react";
 import { motion } from "framer-motion";
 
 interface SelfProps {
+    style: React.CSSProperties;
     heading: string;
     subheading: string;
     image: string;
   }
 
 const SelfCare
- = ({heading,subheading,image}:SelfProps) => {
+ = ({heading,subheading,image,style}:SelfProps) => {
   return (
     <div className="lg:px-32 sm:px-4 overflow-hidden  ">
-      <div className="rounded-xl p-5 mt-10 bg-[#CBDDF5] flex items-center lg:flex-row flex-col ">
+      <div className="rounded-xl p-5 mt-10 flex items-center lg:flex-row flex-col " style={style}>
         <motion.div
           className="flex-1"
           initial={{ x: -100, opacity: 0 }} // Start from left and transparent
