@@ -140,10 +140,10 @@ export default function Campaign() {
         image="/image/home/objective.jpg"
       />
       <WhyUs />
-      <CompaniesCards />
-      <PartnerCards />
-      <MultiCarousel data={certificate} />
-      <MultiCarousel data={partners} />
+      {/* <CompaniesCards />
+      <PartnerCards /> */}
+      <MultiCarousel data={certificate} title={"Certification Offered By"} />
+      <MultiCarousel data={partners} title={"Our Partners"} />
       {/* <Hero /> */}
       {/* <OnlineCourse />
       <WhyChooseUs />

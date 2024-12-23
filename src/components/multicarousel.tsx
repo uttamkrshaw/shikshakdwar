@@ -2,16 +2,19 @@
 import React from 'react'
 import Carousel from 'react-multi-carousel'
 import "react-multi-carousel/lib/styles.css";
-import { Button, Card, CardBody, Typography } from "@material-tailwind/react";
 
 interface SelfProps {
-    data: any;
+    data: { url: string }[];
+    title: string
 }
 
-const MultiCarousel = ({ data }: SelfProps) => {
+const MultiCarousel = ({ data, title }: SelfProps) => {
     return (
         <>
-            <div className="max-w-6xl mx-auto">
+            <div className='lg:px-32 sm:px-4 overflow-hidden m-auto'>
+                <h3 className="pt-1 mb-10 text-4xl font-bold m-auto">{title}</h3>
+            </div>
+            <div className="max-w-6xl mx-auto mt-10">
                 <Carousel
 
                     responsive={{
@@ -47,8 +50,9 @@ const MultiCarousel = ({ data }: SelfProps) => {
                     arrows={false}
                     infinite={true}
                     partialVisible={false}
+                    dotListClass={"marginTop: 50px"}
                 >
-                    {data.map((imageUrl, index) => {
+                    {data.map((imageUrl: { url: string }, index: number) => {
                         return (
                             <div className="slider p-5" key={index}>
                                 <img src={imageUrl?.url} alt="movie" />
