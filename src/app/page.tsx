@@ -15,6 +15,96 @@ import DetailCardRight from "@/components/detailCardright";
 import CompaniesCards from "@/components/comapnies";
 import PartnerCards from "@/components/partners";
 import MultiCarousel from "@/components/multicarousel";
+import WhyUs from "./whyus";
+
+const certificate = [
+  {
+    url: "/image/offer/1.jpg",
+  },
+  {
+    url: "/image/offer/1.png",
+  },
+  {
+    url: "/image/offer/2.jpg",
+  },
+  {
+    url: "/image/offer/3.jpg",
+  },
+  {
+    url: "/image/offer/4.jpg",
+  },
+  {
+    url: "/image/offer/5.jpg",
+  },
+  {
+    url: "/image/offer/6.jpg",
+  },
+  {
+    url: "/image/offer/7.jpg",
+  },
+  {
+    url: "/image/offer/8.jpg",
+  },
+  {
+    url: "/image/offer/9.jpg",
+  },
+  {
+    url: "/image/offer/10.jpg",
+  },
+  {
+    url: "/image/offer/11.jpg",
+  },
+  {
+    url: "/image/offer/12.jpg",
+  },
+  {
+    url: "/image/offer/13.jpg",
+  },
+  {
+    url: "/image/offer/16.jpg",
+  },
+  {
+    url: "/image/offer/18.jpg",
+  },
+  {
+    url: "/image/offer/19.jpg",
+  },
+  {
+    url: "/image/offer/20.jpg",
+  },
+  {
+    url: "/image/offer/22.jpg",
+  },
+  {
+    url: "/image/offer/23.jpg",
+  },
+  {
+    url: "/image/offer/24.jpg",
+  },
+];
+
+const partners = [
+  {
+    url: "/image/partner/1.jpg",
+  },
+  {
+    url: "/image/partner/2.jpg",
+  },
+  {
+    url: "/image/partner/3.jpg",
+  },
+  {
+    url: "/image/partner/14.jpg",
+  },
+  {
+    url: "/image/partner/15.jpg",
+  },
+  {
+    url: "/image/partner/21.jpg",
+  },
+  {
+    url: "/image/partner/17.jpg",
+  }];
 
 export default function Campaign() {
   return (
@@ -49,9 +139,11 @@ export default function Campaign() {
         subheading2="To Connect learners through accessible and inclusive platforms, breaking down geographical barriers and equip learners with practical skills. To leverage education as a tool for positive social change by addressing challenges, promoting sustainability, and instilling a sense of responsibility in learners"
         image="/image/home/objective.jpg"
       />
+      <WhyUs />
       <CompaniesCards />
       <PartnerCards />
-      {/* <MultiCarousel /> */}
+      <MultiCarousel data={certificate} />
+      <MultiCarousel data={partners} />
       {/* <Hero /> */}
       {/* <OnlineCourse />
       <WhyChooseUs />
