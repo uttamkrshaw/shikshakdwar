@@ -1,43 +1,43 @@
 import React from 'react';
 
 const InstitutionCard = () => {
-    const data=[
-        {
-          title: 'Transparency and Credibility:',
-          description:
-            'Quantify your greenhouse gas (GHG) emissions across operations, demonstrating transparency and commitment to stakeholders.',
-        },
-        {
-          title: 'Data-Driven Decision Making:',
-          description:
-            'Identify emission hotspots and prioritize reduction strategies, optimizing resource allocation for maximum impact.',
-        },
-        {
-          title: 'Enhanced Sustainability Reporting:',
-          description:
-            'Align with global reporting frameworks like GRI and CDP, showcasing your sustainability leadership.',
-        },
-        {
-          title: 'Competitive Advantage:',
-          description:
-            'Attract environmentally conscious partners, students, and investors, solidifying your brand as a sustainability champion.',
-        },
-        {
-          title: 'Reduce Environmental Impact:',
-          description:
-            'Contribute to a healthier planet by minimizing your institution`s carbon footprint and mitigating climate change.',
-        },
-        {
-          title: 'Our Comprehensive Process:',
-          description:
-            'Scope Definition: Collaboratively define the boundaries of your carbon footprint assessment, ensuring accuracy and relevance.',
-        },
-        {
-          title: 'Data Gathering:',
-          description:
-            'Collect and analyze data from relevant sources, including energy consumption, waste generation, travel, and supply chain activities.',
-        },
-      ]
+  const data = [
+    {
+      title: 'Transparency and Credibility:',
+      description:
+        'Quantify your greenhouse gas (GHG) emissions across operations, demonstrating transparency and commitment to stakeholders.',
+    },
+    {
+      title: 'Data-Driven Decision Making:',
+      description:
+        'Identify emission hotspots and prioritize reduction strategies, optimizing resource allocation for maximum impact.',
+    },
+    {
+      title: 'Enhanced Sustainability Reporting:',
+      description:
+        'Align with global reporting frameworks like GRI and CDP, showcasing your sustainability leadership.',
+    },
+    {
+      title: 'Competitive Advantage:',
+      description:
+        'Attract environmentally conscious partners, students, and investors, solidifying your brand as a sustainability champion.',
+    },
+    {
+      title: 'Reduce Environmental Impact:',
+      description:
+        'Contribute to a healthier planet by minimizing your institution`s carbon footprint and mitigating climate change.',
+    },
+    {
+      title: 'Our Comprehensive Process:',
+      description:
+        'Scope Definition: Collaboratively define the boundaries of your carbon footprint assessment, ensuring accuracy and relevance.',
+    },
+    {
+      title: 'Data Gathering:',
+      description:
+        'Collect and analyze data from relevant sources, including energy consumption, waste generation, travel, and supply chain activities.',
+    },
+  ]
   return (
     <div className="px-4 py-8 lg:px-16 lg:py-12">
       <div className="flex flex-col lg:flex-row gap-8 items-center bg-gray-100 rounded-lg shadow-lg overflow-hidden">
@@ -79,22 +79,22 @@ const InstitutionCard = () => {
 
       {/* Features List */}
       <div className="mt-8 bg-gray-100 rounded-lg shadow-lg p-6 lg:p-8">
-  <ul className="space-y-6">
-    {data.map((item, index) => (
-      <li
-        key={index}
-        className="group flex flex-col sm:flex-row sm:items-start sm:space-x-4 hover:bg-blue-50 rounded-lg py-2 transition"
-      >
-        <span className="text-blue-900 font-semibold text-lg sm:w-1/3">
-          {item.title}
-        </span>
-        <p className="text-gray-600 text-sm lg:text-base sm:w-2/3">
-          {item.description}
-        </p>
-      </li>
-    ))}
-  </ul>
-</div>
+        <ul className="space-y-6">
+          {data.map((item, index) => (
+            <li
+              key={index}
+              className="group flex flex-col sm:flex-row sm:items-start sm:space-x-4 hover:bg-blue-50 rounded-lg py-2 transition"
+            >
+              <span className="text-blue-900 font-semibold text-lg sm:w-1/3">
+                {item.title}
+              </span>
+              <p className="text-gray-600 text-sm lg:text-base sm:w-2/3">
+                {item.description}
+              </p>
+            </li>
+          ))}
+        </ul>
+      </div>
 
     </div>
   );

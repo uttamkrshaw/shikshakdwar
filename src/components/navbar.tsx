@@ -84,8 +84,10 @@ export function Navbar() {
           <NavItem href="/carbon-footprint">Carbon Footprint</NavItem>
           <NavItem href="/activities">Activities</NavItem>
           <NavItem href="/program">Program</NavItem>
-          <NavItem href="/resources">Resources</NavItem>
+          <NavItem href="/news">News</NavItem>
           <NavItem href="/know-more">Know More</NavItem>
+          <NavItem href="/downloads">Downloads</NavItem>
+          <NavItem href="/gallery">Gallery</NavItem>
           <NavItem href="/contact-us">Contact Us</NavItem>
         </ul>
         <div className="hidden gap-2 lg:flex">
@@ -142,15 +144,17 @@ export function Navbar() {
       <Collapse open={open}>
         <div className="container mx-auto mt-4 rounded-lg bg-white px-6 py-5">
           <ul className="flex flex-col gap-4 text-blue-gray-900">
-            <NavItem>Home</NavItem>
-            <NavItem>Guide Focus</NavItem>
-            <NavItem>Offerings</NavItem>
-            <NavItem>Carbon Footprint</NavItem>
-            <NavItem>Activities</NavItem>
-            <NavItem>Program</NavItem>
-            <NavItem>Resources</NavItem>
-            <NavItem>Know More</NavItem>
-            <NavItem>Contact Us</NavItem>
+            <NavItem href="/">Home</NavItem>
+            <NavItem href="/guide-focus">Guide Focus</NavItem>
+            <NavItem href="/offerings">Offerings</NavItem>
+            <NavItem href="/carbon-footprint">Carbon Footprint</NavItem>
+            <NavItem href="/activities">Activities</NavItem>
+            <NavItem href="/program">Program</NavItem>
+            <NavItem href="/news">News</NavItem>
+            <NavItem href="/know-more">Know More</NavItem>
+            <NavItem href="/downloads">Downloads</NavItem>
+            <NavItem href="/gallery">Gallery</NavItem>
+            <NavItem href="/contact-us">Contact Us</NavItem>
           </ul>
           <div className="mt-4 flex gap-2">
             <a href="https://x.com/?lang=en" target="_blank" rel="noopener noreferrer">

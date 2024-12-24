@@ -1,3 +1,4 @@
+"use client";
 import Hero from '@/app/(activities)/activities/hero'
 import { Footer, Navbar } from '@/components'
 import React from 'react'
