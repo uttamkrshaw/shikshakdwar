@@ -13,7 +13,7 @@ interface SelfProps {
 const DetailCardLeft = ({ heading, subheading, image, subheading1, subheading2 }: SelfProps) => {
   return (
     <div className="lg:px-32 sm:px-4 overflow-hidden  ">
-      <h3 className="pl-36 pt-10  text-4xl font-medium">{heading}</h3>
+      <h3 className="text-center pt-10 pb-5 text-4xl font-medium text-purple-900">{heading}</h3>
       <div className="rounded-xl p-5 flex items-center lg:flex-row flex-col ">
         <motion.div
           className="flex-1"
@@ -22,13 +22,13 @@ const DetailCardLeft = ({ heading, subheading, image, subheading1, subheading2 }
           viewport={{ amount: 0.2 }} // Trigger when 20% is visible
           transition={{ duration: 1 }} // Animation duration
         >
-          <p className="text-gray-800 pr-5 text-2xl font-medium">
+          <p className="text-gray-800 lg:pr-5 text-2xl font-medium">
             {subheading}
           </p>
-          <p className="text-gray-800 pr-5 text-lg">
+          <p className="text-gray-800 lg:pr-5 text-lg">
             {subheading1}
           </p>
-          <p className="text-gray-800 pr-5 text-lg">
+          <p className="text-gray-800 lg:pr-5 text-lg">
             {subheading2}
           </p>
         </motion.div>

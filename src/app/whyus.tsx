@@ -13,17 +13,17 @@ const WhyUs = () => {
           viewport={{ amount: 0.2 }} // Trigger when 20% is visible
           transition={{ duration: 1 }} // Animation duration
         >
-          <h3 className="pl-36 pt-1 mb-10 text-4xl font-bold">Why Choose Shikshakdwar?</h3>
+          <h3 className="text-center pt-10 pb-5 text-4xl font-medium text-purple-900">Why Choose Shikshakdwar?</h3>
 
-          <p className="text-gray-800 pr-5  text-lg ">
+          <p className="text-gray-800 lg:pr-5  text-lg ">
             <strong> Shikshakdwar Learning Credo LLP </strong>  is dedicated to empowering learners of all ages to up-skill, re-skill, and pursue lifelong learning. We offer a comprehensive platform for those seeking globally recognized, accredited courses.
 
           </p>
-          <p className="text-gray-800 pr-5 text-lg">
+          <p className="text-gray-800 lg:pr-5 text-lg">
             Our online courses provide flexibility and accessibility, allowing you to learn from anywhere at your own pace. Our training workshops are supported by highly qualified professionals and experienced mentors from the industry, ensuring you receive expert guidance.
 
           </p>
-          <p className="text-gray-800 pr-5 text-lg">
+          <p className="text-gray-800 lg:pr-5 text-lg">
             We are committed to helping students, teachers, and individuals bridge learning gaps and articulate their knowledge effectively. Our goal is to provide the best products and services within the teacher and student community, offering exceptional value and a strong online presence.
           </p>
           <h4 className="pt-1 mb-10 text-2xl font-bold">Education is the First Line of Defense - Inspire, Learn, Empower! </h4>

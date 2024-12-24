@@ -35,15 +35,15 @@ const DetailCardRight = ({ heading, subheading, image, subheading1, subheading2 
           viewport={{ amount: 0.2 }} // Trigger when 20% is visible
           transition={{ duration: 1 }} // Animation duration
         >
-          <h3 className="pl-36 pt-1 mb-10 text-4xl font-bold">{heading}</h3>
+          <h3 className="text-center pt-10 pb-5 text-4xl font-medium text-purple-900">{heading}</h3>
 
-          <p className="text-gray-800 pr-5  text-2xl font-medium">
+          <p className="text-gray-800 lg:pr-5  text-2xl font-medium">
             {subheading}
           </p>
-          <p className="text-gray-800 pr-5 text-lg">
+          <p className="text-gray-800 lg:pr-5 text-lg">
             {subheading1}
           </p>
-          <p className="text-gray-800 pr-5 text-lg">
+          <p className="text-gray-800 lg:pr-5 text-lg">
             {subheading2}
           </p>
         </motion.div>

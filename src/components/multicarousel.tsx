@@ -11,10 +11,10 @@ interface SelfProps {
 const MultiCarousel = ({ data, title }: SelfProps) => {
     return (
         <>
-            <div className='lg:px-32 sm:px-4 overflow-hidden m-auto'>
-                <h3 className="pt-1 mb-10 text-4xl font-bold m-auto">{title}</h3>
+            <div className='lg:px-32 px-4 overflow-hidden m-auto pt-1'>
+                <h3 className=" mb-10 lg:text-4xl md:text-3xl text-2xl font-bold m-auto text-purple-900">{title}</h3>
             </div>
-            <div className="max-w-6xl mx-auto mt-10">
+            <div className="max-w-6xl mx-auto my-10">
                 <Carousel
 
                     responsive={{
