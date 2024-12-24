@@ -51,7 +51,7 @@ const AllPrograms = () => {
                 <h2 className="text-xl sm:text-2xl font-semibold text-white mb-2">
                   {program.title}
                 </h2>
-                <p>Explore</p>
+                <p className="text-white underline">Explore</p>
               </div>
             </Link>
           ))}
