@@ -7,15 +7,15 @@ import React from 'react'
 const AcademicPrograms = () => {
   return (
     <div>
-        <Navbar/>
-        <Hero
-      heading="Academic Programs
+      <Navbar />
+      <Hero
+        heading="Academic Programs
 Browse Professional Short Courses"
-      subheading="Professional Development Programs"
-      backgroundImage="/image/program/AcademicPrograms.jpg"
-    />
-    <AcademicCard/>
-        <Footer/>
+        subheading="Professional Development Programs"
+        backgroundImage="/image/program/AcademicPrograms.jpg"
+      />
+      <AcademicCard />
+      <Footer />
     </div>
   )
 }
