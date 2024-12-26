@@ -17,8 +17,10 @@ const config: Config = withMT({
     },
     extend: {
       colors: {
+        customBlue: '#002060',
         green: {
           950: '#27ae60',
+         
         },
       }
     },

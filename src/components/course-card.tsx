@@ -13,7 +13,7 @@ interface CourseCardProps {
 
 export function CourseCard({ img, title, desc, buttonLabel,link}: CourseCardProps) {
   return (
-    <Card color="transparent" shadow={false}>
+    <Card color="transparent" shadow={true} className="p-5">
       <CardHeader floated={false} className="mx-0 mt-0 mb-6 h-48">
         <Image width={768} height={768} src={img} alt={title} className="h-full w-full object-cover" />
       </CardHeader>

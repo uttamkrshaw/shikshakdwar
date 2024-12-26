@@ -4,11 +4,11 @@ import React from 'react'
 
 const Detail = () => {
     return (
-        <>
-            <h2 className="text-4xl text-blue-700 text-center my-5 ">
+        <div className='px-3'>
+            <h2 className="lg:text-4xl text-3xl text-blue-700 text-center my-5 ">
                 Get in touch with us
             </h2>
-            <h2 className="text-4xl text-blue-700 text-center my-5 ">
+            <h2 className="lg:text-4xl text-3xl text-blue-700 text-center my-5 ">
                 To Become <span className='text-green-950'> Our Education Partner </span> or in utilizing of our services.
             </h2>
 
@@ -76,7 +76,7 @@ const Detail = () => {
             </div>
 
 
-        </>
+        </div>
     )
 }
 
