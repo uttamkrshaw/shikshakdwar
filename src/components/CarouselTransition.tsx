@@ -12,31 +12,31 @@ export function CarouselTransition() {
       onPointerEnterCapture={() => { }}
       onPointerLeaveCapture={() => { }}>
       <img
-        src="/image/home/gallaryimg1.jpg"
+        src="/image/home/1.jpg"
         alt="image 1"
         className="h-full w-full object-cover"
       />
       <img
-        src="/image/home/gallaryimg2.jpg"
+        src="/image/home/2.jpg"
         alt="image 1"
         className="h-full w-full object-cover"
       />
       <img
-        src="/image/home/gallaryimg3.jpg"
+        src="/image/home/3.jpg"
         alt="image 1"
         className="h-full w-full object-cover"
       />
       <img
-        src="/image/home/gallaryimg4.jpg"
+        src="/image/home/4.jpg"
         alt="image 1"
         className="h-full w-full object-cover"
       />
       <img
-        src="/image/home/gallaryimg5.jpg"
+        src="/image/home/5.jpg"
         alt="image 1"
         className="h-full w-full object-cover"
       />
-      <img
+      {/* <img
         src="/image/home/gallaryimg6.jpg"
         alt="image 1"
         className="h-full w-full object-cover"
@@ -50,7 +50,7 @@ export function CarouselTransition() {
         src="/image/home/gallaryimg8.jpg"
         alt="image 1"
         className="h-full w-full object-cover"
-      />
+      /> */}
 
     </Carousel>
   );

@@ -54,7 +54,7 @@ const Plan = () => {
                             >
                                 <div className='flex flex-col'>
                                     <img src="/image/membership/parents.svg" alt="" />
-                                    <span style={{ color: "#194998", fontWeight: "bold", textAlign: "center" }}>Corporate</span>
+                                    <span style={{ color: "#194998", fontWeight: "bold", textAlign: "center" }}>Parent</span>
                                 </div>
                             </button>
                         </div>
@@ -67,7 +67,7 @@ const Plan = () => {
                             >
                                 <div className='flex flex-col'>
                                     <img src="/image/membership/teacher.svg" alt="" />
-                                    <span style={{ color: "#194998", fontWeight: "bold", textAlign: "center" }}>Corporate</span>
+                                    <span style={{ color: "#194998", fontWeight: "bold", textAlign: "center" }}>Teacher</span>
                                 </div>
                             </button>
                         </div>
@@ -80,7 +80,7 @@ const Plan = () => {
                             >
                                 <div className='flex flex-col'>
                                     <img src="/image/membership/school.svg" alt="" />
-                                    <span style={{ color: "#194998", fontWeight: "bold", textAlign: "center" }}>Corporate</span>
+                                    <span style={{ color: "#194998", fontWeight: "bold", textAlign: "center" }}>School</span>
                                 </div>
                             </button>
                         </div>
@@ -93,7 +93,7 @@ const Plan = () => {
                             >
                                 <div className='flex flex-col'>
                                     <img src="/image/membership/ngo.svg" alt="" />
-                                    <span style={{ color: "#194998", fontWeight: "bold", textAlign: "center" }}>Corporate</span>
+                                    <span style={{ color: "#194998", fontWeight: "bold", textAlign: "center" }}>Ngo</span>
                                 </div>
                             </button>
                         </div>

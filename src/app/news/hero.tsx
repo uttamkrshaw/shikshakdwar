@@ -13,7 +13,7 @@ function Hero() {
             color="white"
             className="md:max-w-full lg:max-w-3xl"
           >
-            Latest News & Events
+           News & Events
           </Typography>
           <Typography
             variant="lead"
