@@ -1,20 +1,15 @@
 // components
 import { Navbar, Footer } from "@/components";
 
+
 // sections
-import Hero from "./hero";
-import OnlineCourse from "./online-course";
-import WhyChooseUs from "./why-choose-us";
-import CarouselFeatures from "./carousel-features";
-import Pricing from "./pricing";
-import OtherCourses from "./other-courses";
 import { CarouselTransition } from "@/components/CarouselTransition";
 import DestinationCard from "@/components/activity/destinationCard";
 import DetailCardLeft from "@/components/detailCardleft";
 import DetailCardRight from "@/components/detailCardright";
-import CompaniesCards from "@/components/comapnies";
-import PartnerCards from "@/components/partners";
 import MultiCarousel from "@/components/multicarousel";
+import TextReveal from "@/components/ui/text-reveal";
+import Marquee from "react-fast-marquee";
 import WhyUs from "./whyus";
 
 const certificate = [
@@ -64,13 +59,13 @@ const certificate = [
     url: "/image/offer/16.jpg",
   },
   {
-    url: "/image/offer/18.jpg",
+    url: "/image/offer/18.png",
   },
   {
-    url: "/image/offer/19.jpg",
+    url: "/image/offer/19.png",
   },
   {
-    url: "/image/offer/20.jpg",
+    url: "/image/offer/20.png",
   },
   {
     url: "/image/offer/22.jpg",
@@ -111,6 +106,10 @@ export default function Campaign() {
     <>
       <Navbar />
       <CarouselTransition />
+      <div className="z-2 flex min-h-3 items-center justify-center rounded-lg border bg-white dark:bg-black">
+        <TextReveal text="Explore e-learning programs and Get Certified from World's Leading IT Companies and Institutions Today!" />
+      </div>
+
       <DestinationCard heading="About Shikshakdwar"
         subheading='Welcome to Shikshakdwar Learning Community, a vibrant and collaborative space where the journey of education transcends boundaries. "Shikshakdwar," meaning "Through Teachers" in Hindi, signifies our belief in the transformative power of educators as catalysts for inspiration, learning, and empowerment.'
         image="/image/home/full_img_1_9.jpg"
@@ -140,8 +139,9 @@ export default function Campaign() {
         image="/image/home/objective.jpg"
       />
       <WhyUs />
-      {/* <CompaniesCards />
-      <PartnerCards /> */}
+      <Marquee className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-lg text-white p-4 rounded-lg shadow-lg">
+        Certiport Authorized Testing Centre | International Certification Programs (Microsoft, Cisco, IBM, ITS, Autodesk, Adobe, Unity and more) | e-learning courses, practice tests | Teacher Training | TEFL | Cyber Security | Mentoring & Applied Project Development | NOCN Certification
+      </Marquee>
       <MultiCarousel data={certificate} title={"Certification Offered By"} />
       <MultiCarousel data={partners} title={"Our Partners"} />
       {/* <Hero /> */}

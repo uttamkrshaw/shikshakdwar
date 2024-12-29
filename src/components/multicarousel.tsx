@@ -46,7 +46,7 @@ const MultiCarousel = ({ data, title }: SelfProps) => {
                     autoPlay={true}
                     swipeable={true}
                     draggable={true}
-                    showDots={true}
+                    showDots={false}
                     arrows={false}
                     infinite={true}
                     partialVisible={false}

@@ -1,6 +1,7 @@
 "use client";
 import { Carousel } from "@material-tailwind/react";
 
+
 export function CarouselTransition() {
   return (
     <Carousel
@@ -12,27 +13,27 @@ export function CarouselTransition() {
       onPointerEnterCapture={() => { }}
       onPointerLeaveCapture={() => { }}>
       <img
-        src="/image/home/1.jpg"
+        src="/image/home/1.webp"
         alt="image 1"
         className="h-full w-full object-cover"
       />
       <img
-        src="/image/home/2.jpg"
+        src="/image/home/2.webp"
         alt="image 1"
         className="h-full w-full object-cover"
       />
       <img
-        src="/image/home/3.jpg"
+        src="/image/home/3.webp"
         alt="image 1"
         className="h-full w-full object-cover"
       />
       <img
-        src="/image/home/4.jpg"
+        src="/image/home/4.webp"
         alt="image 1"
         className="h-full w-full object-cover"
       />
       <img
-        src="/image/home/5.jpg"
+        src="/image/home/5.webp"
         alt="image 1"
         className="h-full w-full object-cover"
       />
