@@ -77,7 +77,21 @@ const certificate = [
     url: "/image/offer/24.jpg",
   },
 ];
+const recognition = [
+  {
+    url: "/image/recognition/img_116.png",
+  },
+  {
+    url: "/image/recognition/img_122.png",
+  },
+  {
+    url: "/image/recognition/img_123.png",
+  },
+  {
+    url: "/image/recognition/img_125.png",
+  },
 
+]
 const partners = [
   {
     url: "/image/partner/1.jpg",
@@ -144,12 +158,19 @@ export default function Campaign() {
       </Marquee>
       <MultiCarousel data={certificate} title={"Certification Offered By"} />
       <MultiCarousel data={partners} title={"Our Partners"} />
-      {/* <Hero /> */}
-      {/* <OnlineCourse />
-      <WhyChooseUs />
-      <CarouselFeatures />
-      <Pricing />
-      <OtherCourses /> */}
+      <div className='lg:px-32 px-4 overflow-hidden m-auto pt-1'>
+        <h3 className=" mb-10 lg:text-4xl md:text-3xl text-center text-2xl font-bold m-auto text-purple-900">Recognized By</h3>
+      </div>
+      <div className="max-w-6xl mx-auto my-10 grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+        {recognition.map((imageUrl: { url: string }, index: number) => {
+          return (
+            <div className="slider p-5" key={index}>
+              <img src={imageUrl?.url} alt="movie" />
+            </div>
+          );
+        })}
+
+      </div>
       <Footer />
     </>
   );

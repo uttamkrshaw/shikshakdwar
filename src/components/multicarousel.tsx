@@ -12,7 +12,7 @@ const MultiCarousel = ({ data, title }: SelfProps) => {
     return (
         <>
             <div className='lg:px-32 px-4 overflow-hidden m-auto pt-1'>
-                <h3 className=" mb-10 lg:text-4xl md:text-3xl text-2xl font-bold m-auto text-purple-900">{title}</h3>
+                <h3 className=" mb-10 lg:text-4xl text-center md:text-3xl text-2xl font-bold m-auto text-purple-900">{title}</h3>
             </div>
             <div className="max-w-6xl mx-auto my-10">
                 <Carousel
