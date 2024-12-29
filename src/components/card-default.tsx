@@ -17,10 +17,12 @@ export function CardDefault({ title, description }) {
                 />
             </CardHeader>
             <CardBody>
-                <Typography variant="h5" color="blue-gray" className="mb-2">
+                <Typography variant="h5" color="blue-gray" className="mb-2" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
+                >
                     {title}
                 </Typography>
-                <Typography>
+                <Typography placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
+                >
                     {description}
                 </Typography>
             </CardBody>

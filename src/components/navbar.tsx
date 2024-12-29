@@ -22,6 +22,8 @@ function NavItem({ children, href }: NavItemProps) {
         target={href ? "_self" : "_blank"}
         variant="small"
         className="font-medium"
+        placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
+
       >
         {children}
       </Typography>

@@ -12,6 +12,7 @@ function Hero() {
             variant="h1"
             color="white"
             className="md:max-w-full lg:max-w-3xl"
+            placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
           >
            News & Events
           </Typography>
@@ -19,6 +20,7 @@ function Hero() {
             variant="lead"
             color="white"
             className="mt-6 mb-10 w-full md:max-w-full lg:max-w-3xl"
+            placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
           >
             Stay informed with the latest updates, events, and achievements that shape our journey while exploring our organization's vision and commitment to a brighter, healthier future.          </Typography>
         </div>

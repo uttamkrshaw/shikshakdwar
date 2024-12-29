@@ -26,10 +26,10 @@ function Option({ icon: Icon, title, children }: OptionProps) {
         <Icon className="text-gray-900 h-6 w-6" />
       </div>
       <div>
-        <Typography variant="h5" color="blue-gray" className="mb-2">
+        <Typography variant="h5" color="blue-gray" className="mb-2" placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}>
           {title}
         </Typography>
-        <Typography className="mb-2 md:w-10/12 w-full font-normal !text-gray-500">
+        <Typography className="mb-2 md:w-10/12 w-full font-normal !text-gray-500" placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}>
           {children}
         </Typography>
       </div>
@@ -40,12 +40,13 @@ function Option({ icon: Icon, title, children }: OptionProps) {
 export function WhyBecomeTeacher() {
   return (
     <section className="w-full max-w-6xl mx-auto flex flex-col items-center px-2 py-10">
-      <Typography variant="h2" className="text-center mb-2" color="blue-gray">
+      <Typography variant="h2" className="text-center mb-2" color="blue-gray" placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}>
         Why Become a Teacher?
       </Typography>
       <Typography
         variant="lead"
         className="mb-16 w-full text-center font-normal !text-gray-500 lg:w-10/12"
+        placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
       >
         Becoming a teacher means shaping minds, sparking curiosity, and making a lasting impact. It’s a chance to inspire, guide, and empower students to reach their full potential. Teachers nurture critical thinkers and compassionate individuals, contributing to a better future. It’s not just a profession—it’s a calling to change lives.      </Typography>
       <div className="mt-8">

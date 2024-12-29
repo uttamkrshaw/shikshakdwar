@@ -12,6 +12,7 @@ function Hero() {
             variant="h1"
             color="white"
             className="md:max-w-full lg:max-w-3xl"
+            placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
           >
             We're Here to Help
           </Typography>
@@ -19,6 +20,7 @@ function Hero() {
             variant="lead"
             color="white"
             className="mt-6 mb-10 w-full md:max-w-full lg:max-w-3xl"
+            placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
           >
             At ShikshakDwar, your satisfaction is our priority. Whether you have a question, need assistance, or want to share feedback, we’re just a message away.
           </Typography>

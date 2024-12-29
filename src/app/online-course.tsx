@@ -45,12 +45,13 @@ export function OnlineCourse() {
           />
         </div>
         <div className="col-span-2 lg:pl-24">
-          <Typography variant="h2" color="blue-gray" className="mb-4">
+          <Typography variant="h2" color="blue-gray" className="mb-4"placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}>
             Online Course
           </Typography>
           <Typography
             variant="lead"
-            className="mb-5 max-w-lg px-4 text-left text-lg !text-gray-500 lg:px-0  "
+            className="mb-5 max-w-lg px-4 text-left text-lg !text-gray-500 lg:px-0"
+            placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
           >
             In this comprehensive React Course, you&apos;ll delve into the world
             of React, from its fundamentals to advanced techniques. Our expert

@@ -21,14 +21,16 @@ const CourseCardAcademic = ({ img, title, price, buttonLabel, link }: CourseCard
                     <Image width={1000} height={1000} src={img} alt={title} className="h-fit w-fit object-cover" />
                 </CardHeader>
                 <CardBody className="p-0">
-                    <Typography variant="h5" className="mb-2">
+                    <Typography variant="h5" className="mb-2" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
+                    >
                         INR :- {price}
                     </Typography>
                     <a
                         href="#"
                         className="text-blue-gray-900 transition-colors hover:text-gray-800"
                     >
-                        <Typography variant="h5" className="mb-2">
+                        <Typography variant="h5" className="mb-2" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
+                        >
                             {title}
                         </Typography>
                     </a>

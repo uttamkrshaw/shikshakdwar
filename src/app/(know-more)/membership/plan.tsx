@@ -10,7 +10,7 @@ const Plan = () => {
                 <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
                     <div className="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
                         <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Our Membership Plan</h2>
-                        <p className="mb-5 font-light text-gray-500 sm:text-xl dark:text-gray-400">Elevate your teaching practice and empower your students with a Shikshakdwar Annual Membership! Unlock the benefits and Gain access to a wealth of resources designed to enhance your professional development and classroom experience.</p>
+                        <p className="mb-5 font-normal text-gray-500 sm:text-xl dark:text-gray-400">Elevate your teaching practice and empower your students with a Shikshakdwar Annual Membership! Unlock the benefits and Gain access to a wealth of resources designed to enhance your professional development and classroom experience.</p>
                     </div>
                     <div className="px-6 sm:px-10 lg:px-48 pt-15">
                         <div className="my-20 ">

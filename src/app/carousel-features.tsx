@@ -9,12 +9,13 @@ export function CarouselFeatures() {
   return (
     <section className="px-8 pt-40 pb-20">
       <div className="flex mb-16 flex-col items-center">
-        <Typography variant="h2" className="text-center mb-2" color="blue-gray">
+        <Typography variant="h2" className="text-center mb-2" color="blue-gray" placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}>
           What Students Say
         </Typography>
         <Typography
           variant="lead"
           className="mb-3 w-full text-center font-normal !text-gray-500 lg:w-10/12"
+          placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
         >
           Discover what our students have to say about our course!
         </Typography>
@@ -37,6 +38,9 @@ export function CarouselFeatures() {
               ))}
             </div>
           )}
+          placeholder=""
+          onPointerEnterCapture={() => {}}
+          onPointerLeaveCapture={() => {}}
         >
           {new Array(2).fill("").map((_, i) => (
             <div
@@ -47,7 +51,8 @@ export function CarouselFeatures() {
                 <Typography
                   variant="lead"
                   color="white"
-                  className="mb-5 text-xl font-normal "
+                  className="mb-5 text-xl font-normal"
+                  placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
                 >
                   Easy Shopping, Quick Delivery <br />
                   No need to stress about shopping for books. Order online and
@@ -58,6 +63,7 @@ export function CarouselFeatures() {
                   variant="small"
                   color="white"
                   className="font-medium uppercase"
+                  placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
                 >
                   Louis Miriam,{" "}
                   <span className="font-normal opacity-60">

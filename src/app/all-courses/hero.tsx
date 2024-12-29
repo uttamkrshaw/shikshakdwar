@@ -12,6 +12,7 @@ function Hero() {
             variant="h1"
             color="white"
             className="md:max-w-full lg:max-w-3xl"
+            placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
           >
             Explore Our Diverse Range of Courses
           </Typography>
@@ -19,6 +20,7 @@ function Hero() {
             variant="lead"
             color="white"
             className="mt-6 mb-10 w-full md:max-w-full lg:max-w-3xl"
+            placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
           >
             Transform Your Future with Our Comprehensive Courses - Whether You're Interested in Web Development, Data Science, Digital Marketing, Graphic Design, Cybersecurity, or Business Management, Our Expert-Led Programs Offer the Skills and Knowledge You Need to Thrive in the Modern Job Market. Start Your Learning Journey with Us Today!
           </Typography>

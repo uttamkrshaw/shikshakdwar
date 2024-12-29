@@ -12,6 +12,7 @@ function Hero() {
             variant="h1"
             color="white"
             className="md:max-w-full lg:max-w-3xl"
+            placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
           >
             Teacher Training Courses Online
           </Typography>
@@ -19,6 +20,7 @@ function Hero() {
             variant="lead"
             color="white"
             className="mt-6 mb-10 w-full md:max-w-full lg:max-w-3xl"
+            placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
           >
             Unlock your potential with dynamic online teacher training courses! Gain flexible, expert-led education at your own pace. Enhance teaching skills, stay updated on innovative techniques, and boost your career prospects. Empower your students and transform classrooms with engaging, impactful methods. Start your journey to success today!          </Typography>
         </div>

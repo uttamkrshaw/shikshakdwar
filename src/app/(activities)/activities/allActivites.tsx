@@ -45,12 +45,13 @@ export function AllActivities() {
     <section className="pb-20 px-8">
       {/* Header Section */}
       <div className="container mx-auto mb-12 text-center">
-        <Typography variant="h2" color="blue-gray" className="mt-5">
+        <Typography variant="h2" color="blue-gray" className="mt-5" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
           Discover Our Activities
         </Typography>
         <Typography
           variant="lead"
           className="mx-auto mt-2 w-full px-4 font-normal text-gray-500 md:w-8/12"
+          placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
         >
           Explore exciting and engaging activities designed to enrich your experience. From thrilling adventures to relaxing moments, there's something for everyone to enjoy.
         </Typography>
@@ -69,20 +70,20 @@ export function AllActivities() {
                 alt={props.title}
                 className="mb-4 h-48 w-full rounded-lg object-cover"
               />
-              <Typography variant="h5" color="blue-gray" className="mb-2">
+              <Typography variant="h5" color="blue-gray" className="mb-2" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
                 {props.title}
               </Typography>
               {/* Fixed Description */}
-              <Typography className="mb-4 text-gray-500">
+              <Typography className="mb-4 text-gray-500" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
                 {props.desc}
               </Typography>
               <a
-  href={props.link}
-  className="inline-block rounded bg-blue-500 px-4 py-2 text-white transition hover:bg-blue-600"
->
-  {props.buttonLabel}
-  <span className="ml-2 text-lg">→</span> 
-</a>
+                href={props.link}
+                className="inline-block rounded bg-blue-500 px-4 py-2 text-white transition hover:bg-blue-600"
+              >
+                {props.buttonLabel}
+                <span className="ml-2 text-lg">→</span>
+              </a>
 
             </div>
           ))}

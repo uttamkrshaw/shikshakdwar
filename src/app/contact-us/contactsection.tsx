@@ -54,6 +54,7 @@ export function ContactSection() {
                 <Typography
                   variant="small"
                   className="mb-2 text-left font-medium !text-gray-900"
+                  placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
                 >
                   First Name
                 </Typography>
@@ -75,6 +76,7 @@ export function ContactSection() {
                 <Typography
                   variant="small"
                   className="mb-2 text-left font-medium !text-gray-900"
+                  placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
                 >
                   Last Name
                 </Typography>
@@ -97,6 +99,7 @@ export function ContactSection() {
               <Typography
                 variant="small"
                 className="mb-2 text-left font-medium !text-gray-900"
+                placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
               >
                 Contact Number
               </Typography>
@@ -109,7 +112,7 @@ export function ContactSection() {
                   className: "before:content-none after:content-none",
                 }}
               />
-              <Typography className="mt-2 text-xs font-normal text-blue-gray-500">
+              <Typography className="mt-2 text-xs font-normal text-blue-gray-500" placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}>
                 Include your country code for international numbers.
               </Typography>
             </div>
@@ -117,6 +120,7 @@ export function ContactSection() {
               <Typography
                 variant="small"
                 className="mb-2 text-left font-medium !text-gray-900"
+                placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
               >
                 Your Email
               </Typography>
@@ -138,6 +142,7 @@ export function ContactSection() {
               <Typography
                 variant="small"
                 className="mb-2 text-left font-medium !text-gray-900"
+                placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
               >
                 Your Message
               </Typography>

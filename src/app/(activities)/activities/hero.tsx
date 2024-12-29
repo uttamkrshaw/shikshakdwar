@@ -28,6 +28,7 @@ function Hero({ heading, subheading, backgroundImage }: HeroProps) {
             variant="lead"
             color="white"
             className="mt-6 mb-10 text-3xl w-full md:max-w-full lg:max-w-4xl"
+            placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
           >
             {subheading}
           </Typography>

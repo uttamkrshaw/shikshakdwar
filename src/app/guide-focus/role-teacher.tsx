@@ -26,10 +26,10 @@ function Option({ icon: Icon, title, children }: OptionProps) {
         <Icon className="text-gray-900 h-6 w-6" />
       </div>
       <div>
-        <Typography variant="h5" color="blue-gray" className="mb-2">
+        <Typography variant="h5" color="blue-gray" className="mb-2" placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}>
           {title}
         </Typography>
-        <Typography className="mb-2 md:w-10/12 w-full font-normal !text-gray-500">
+        <Typography className="mb-2 md:w-10/12 w-full font-normal !text-gray-500" placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}>
           {children}
         </Typography>
       </div>
@@ -40,12 +40,13 @@ function Option({ icon: Icon, title, children }: OptionProps) {
 export function RoleTeacher() {
   return (
     <section className="w-full max-w-4xl mx-auto flex flex-col items-center px-4 py-2">
-      <Typography variant="h2" className="text-center mb-2" color="blue-gray">
+      <Typography variant="h2" className="text-center mb-2" color="blue-gray" placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}>
         The Role and Responsibilities of a Teacher?
       </Typography>
       <Typography
         variant="lead"
         className="mb-16 w-full text-center font-normal !text-gray-500 lg:w-10/12"
+        placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
       >
         A teacher’s role extends beyond instruction; they inspire, guide, and support students in their learning journey. Teachers foster critical thinking, creativity, and personal growth, creating a safe and inclusive environment. They act as mentors, role models, and motivators, shaping individuals to reach their potential and contribute meaningfully to society.
       </Typography>

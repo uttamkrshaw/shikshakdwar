@@ -43,12 +43,13 @@ const MoreDetails = () => {
                     {
                         FEATURES.map(({ title, description }) => (
                             <div className="col-span-2 lg:pl-24">
-                                <Typography variant="h2" color="blue-gray" className="mb-4">
+                                <Typography variant="h2" color="blue-gray" className="mb-4" placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}>
                                     {title}
                                 </Typography>
                                 <Typography
                                     variant="lead"
                                     className="mb-5 max-w-fit px-4 text-left text-lg !text-gray-500 lg:px-0"
+                                    placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
                                 >
                                     {description}
                                 </Typography>
