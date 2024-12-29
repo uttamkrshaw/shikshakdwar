@@ -63,7 +63,7 @@ export function Navbar() {
       fullWidth
       shadow={false}
       blurred={false}
-      color={isScrolling ? "blue-gray" : "transparent"}
+      color={isScrolling ? "white" : "transparent"}
       className="fixed top-0 z-50 border-0"
       placeholder=""
       onPointerEnterCapture={() => {}}
