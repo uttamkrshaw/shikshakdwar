@@ -74,7 +74,7 @@ export function Footer() {
                   </a>
                 </Typography>
               </div>
-              <Button color="gray" className="w-full lg:w-fit" size="md">
+              <Button color="gray" className="w-full lg:w-fit" size="md" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
                 button
               </Button>
             </div>

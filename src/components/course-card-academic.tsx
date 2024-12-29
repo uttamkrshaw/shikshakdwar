@@ -16,11 +16,11 @@ interface CourseCardProps {
 const CourseCardAcademic = ({ img, title, price, buttonLabel, link }: CourseCardProps) => {
     return (
         <>
-            <Card color="transparent" shadow={false}>
-                <CardHeader floated={false} className="mx-0 mt-0 mb-6 h-48">
+            <Card color="transparent" shadow={false} placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}> 
+                <CardHeader floated={false} className="mx-0 mt-0 mb-6 h-48" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
                     <Image width={1000} height={1000} src={img} alt={title} className="h-fit w-fit object-cover" />
                 </CardHeader>
-                <CardBody className="p-0">
+                <CardBody className="p-0" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
                     <Typography variant="h5" className="mb-2" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
                     >
                         INR :- {price}
@@ -35,7 +35,7 @@ const CourseCardAcademic = ({ img, title, price, buttonLabel, link }: CourseCard
                         </Typography>
                     </a>
                     <Link href={link}>
-                        <Button color="gray" size="sm">
+                        <Button color="gray" size="sm" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
                             {buttonLabel}
                         </Button>
                     </Link>

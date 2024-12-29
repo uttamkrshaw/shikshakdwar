@@ -25,8 +25,8 @@ export function PartnerCards() {
         </Typography>
         <div className="flex flex-col md:flex-row gap-6 max-w-6xl mx-auto">
           <div className="flex flex-col items-center justify-center gap-6">
-            <Card shadow={false} className="bg-[#FAFAFA] px-10">
-              <CardBody>
+            <Card shadow={false} className="bg-[#FAFAFA] px-10" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
+              <CardBody placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
                 <img
                   src="https://www.material-tailwind.com/logos/logo-coinbase.svg"
                   alt="logo"
@@ -38,8 +38,8 @@ export function PartnerCards() {
                 </Typography>
               </CardBody>
             </Card>
-            <Card shadow={false} className="bg-[#FAFAFA] px-10">
-              <CardBody>
+            <Card shadow={false} className="bg-[#FAFAFA] px-10" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
+              <CardBody placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
                 <img
                   src="https://www.material-tailwind.com/logos/logo-amazon.svg"
                   alt="logo"
@@ -52,8 +52,8 @@ export function PartnerCards() {
               </CardBody>
             </Card>
           </div>
-          <Card shadow={false} className="bg-[#FAFAFA] lg:px-10 justify-center max-w-[18rem] lg:max-w-lg">
-            <CardBody className="text-center">
+          <Card shadow={false} className="bg-[#FAFAFA] lg:px-10 justify-center max-w-[18rem] lg:max-w-lg" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
+            <CardBody className="text-center" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
               <img
                 src="https://www.material-tailwind.com/logos/logo-netflix.svg"
                 alt="logo"
@@ -66,8 +66,8 @@ export function PartnerCards() {
             </CardBody>
           </Card>
           <div className="flex flex-col items-center justify-center gap-6">
-            <Card shadow={false} className="bg-[#FAFAFA] px-10">
-              <CardBody>
+            <Card shadow={false} className="bg-[#FAFAFA] px-10" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
+              <CardBody placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
                 <img
                   src="https://www.material-tailwind.com/logos/logo-spotify.svg"
                   alt="logo"
@@ -79,8 +79,8 @@ export function PartnerCards() {
                 </Typography>
               </CardBody>
             </Card>
-            <Card shadow={false} className="bg-[#FAFAFA] px-10">
-              <CardBody>
+            <Card shadow={false} className="bg-[#FAFAFA] px-10" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
+              <CardBody placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
                 <img
                   src="https://www.material-tailwind.com/logos/logo-google.svg"
                   alt="logo"

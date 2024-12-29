@@ -30,6 +30,7 @@ export function ContactSection() {
             src="/image/map.svg"
             alt="map"
             className="w-full h-full lg:max-h-[510px]"
+            crossOrigin=""
           />
           <form
             action="#"
@@ -54,7 +55,7 @@ export function ContactSection() {
                 <Typography
                   variant="small"
                   className="mb-2 text-left font-medium !text-gray-900"
-                  placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
+                  placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
                 >
                   First Name
                 </Typography>
@@ -64,6 +65,9 @@ export function ContactSection() {
                   placeholder="First Name"
                   name="first-name"
                   className="focus:border-t-gray-900"
+                  onPointerEnterCapture={() => { }}
+                  onPointerLeaveCapture={() => { }}
+                  crossOrigin={""}
                   containerProps={{
                     className: "!min-w-full",
                   }}
@@ -76,7 +80,7 @@ export function ContactSection() {
                 <Typography
                   variant="small"
                   className="mb-2 text-left font-medium !text-gray-900"
-                  placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
+                  placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
                 >
                   Last Name
                 </Typography>
@@ -86,6 +90,9 @@ export function ContactSection() {
                   placeholder="Last Name"
                   name="last-name"
                   className="focus:border-t-gray-900"
+                  onPointerEnterCapture={() => { }}
+                  onPointerLeaveCapture={() => { }}
+                  crossOrigin={""}
                   containerProps={{
                     className: "!min-w-full",
                   }}
@@ -99,7 +106,7 @@ export function ContactSection() {
               <Typography
                 variant="small"
                 className="mb-2 text-left font-medium !text-gray-900"
-                placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
+                placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
               >
                 Contact Number
               </Typography>
@@ -111,8 +118,12 @@ export function ContactSection() {
                 labelProps={{
                   className: "before:content-none after:content-none",
                 }}
+                onPointerEnterCapture={() => { }}
+                onPointerLeaveCapture={() => { }}
+                crossOrigin={""}
+
               />
-              <Typography className="mt-2 text-xs font-normal text-blue-gray-500" placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}>
+              <Typography className="mt-2 text-xs font-normal text-blue-gray-500" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
                 Include your country code for international numbers.
               </Typography>
             </div>
@@ -120,7 +131,7 @@ export function ContactSection() {
               <Typography
                 variant="small"
                 className="mb-2 text-left font-medium !text-gray-900"
-                placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
+                placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
               >
                 Your Email
               </Typography>
@@ -130,6 +141,9 @@ export function ContactSection() {
                 placeholder="name@email.com"
                 name="email"
                 className="focus:border-t-gray-900"
+                onPointerEnterCapture={() => { }}
+                onPointerLeaveCapture={() => { }}
+                crossOrigin={""}
                 containerProps={{
                   className: "!min-w-full",
                 }}
@@ -142,7 +156,7 @@ export function ContactSection() {
               <Typography
                 variant="small"
                 className="mb-2 text-left font-medium !text-gray-900"
-                placeholder="" onPointerEnterCapture={() => {}} onPointerLeaveCapture={() => {}}
+                placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
               >
                 Your Message
               </Typography>
@@ -152,6 +166,8 @@ export function ContactSection() {
                 placeholder="Message"
                 name="message"
                 className="focus:border-t-gray-900"
+                onPointerEnterCapture={() => { }}
+                onPointerLeaveCapture={() => { }}
                 containerProps={{
                   className: "!min-w-full",
                 }}
@@ -160,7 +176,13 @@ export function ContactSection() {
                 }}
               />
             </div>
-            <Button className="w-full" color="gray">
+            <Button
+              className="w-full"
+              color="gray"
+              placeholder=""
+              onPointerEnterCapture={() => {}}
+              onPointerLeaveCapture={() => {}}
+            >
               Send message
             </Button>
           </form>

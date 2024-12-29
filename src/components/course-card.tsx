@@ -13,11 +13,11 @@ interface CourseCardProps {
 
 export function CourseCard({ img, title, desc, buttonLabel,link}: CourseCardProps) {
   return (
-    <Card color="transparent" shadow={true} className="p-5">
-      <CardHeader floated={false} className="mx-0 mt-0 mb-6 h-48">
+    <Card color="transparent" shadow={true} className="p-5" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
+      <CardHeader floated={false} className="mx-0 mt-0 mb-6 h-48" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
         <Image width={768} height={768} src={img} alt={title} className="h-full w-full object-cover" />
       </CardHeader>
-      <CardBody className="p-0">
+      <CardBody className="p-0" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
         <a
           href="#"
           className="text-blue-gray-900 transition-colors hover:text-gray-800"
@@ -32,7 +32,7 @@ export function CourseCard({ img, title, desc, buttonLabel,link}: CourseCardProp
           {desc}
         </Typography>
         <Link href={link}>
-          <Button color="gray" size="sm">
+          <Button color="gray" size="sm" placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}>
             {buttonLabel}
           </Button>
         </Link>

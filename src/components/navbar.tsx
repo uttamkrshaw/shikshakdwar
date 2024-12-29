@@ -63,8 +63,12 @@ export function Navbar() {
       fullWidth
       shadow={false}
       blurred={false}
-      color={isScrolling ? "black" : "transparent"}
+      color={isScrolling ? "blue-gray" : "transparent"}
       className="fixed top-0 z-50 border-0"
+      placeholder=""
+      onPointerEnterCapture={() => {}}
+      onPointerLeaveCapture={() => {}}
+
     >
       <div className="container mx-auto flex items-center justify-between">
         <Link href="/">
@@ -98,6 +102,7 @@ export function Navbar() {
               variant="text"
               color={isScrolling ? "gray" : "white"}
               size="sm"
+              placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
             >
               <i className="fa-brands fa-twitter text-base" />
             </IconButton>
@@ -107,6 +112,7 @@ export function Navbar() {
               variant="text"
               color={isScrolling ? "gray" : "white"}
               size="sm"
+              placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
             >
               <i className="fa-brands fa-facebook text-base" />
             </IconButton>
@@ -116,6 +122,7 @@ export function Navbar() {
               variant="text"
               color={isScrolling ? "gray" : "white"}
               size="sm"
+              placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
             >
               <i className="fa-brands fa-instagram text-base" />
             </IconButton>
@@ -125,6 +132,7 @@ export function Navbar() {
               variant="text"
               color={isScrolling ? "gray" : "white"}
               size="sm"
+              placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
             >
               <i className="fa-brands  fa-whatsapp text-base" />
             </IconButton>
@@ -135,6 +143,7 @@ export function Navbar() {
           color={isScrolling ? "gray" : "white"}
           onClick={handleOpen}
           className="ml-auto inline-block lg:hidden"
+          placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
         >
           {open ? (
             <XMarkIcon strokeWidth={2} className="h-6 w-6" />
@@ -164,6 +173,7 @@ export function Navbar() {
                 variant="text"
                 color={isScrolling ? "gray" : "white"}
                 size="sm"
+                placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
               >
                 <i className="fa-brands fa-twitter text-base" />
               </IconButton>
@@ -173,6 +183,7 @@ export function Navbar() {
                 variant="text"
                 color={isScrolling ? "gray" : "white"}
                 size="sm"
+                placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
               >
                 <i className="fa-brands fa-facebook text-base" />
               </IconButton>
@@ -182,6 +193,7 @@ export function Navbar() {
                 variant="text"
                 color={isScrolling ? "gray" : "white"}
                 size="sm"
+                placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
               >
                 <i className="fa-brands fa-instagram text-base" />
               </IconButton>
@@ -191,6 +203,7 @@ export function Navbar() {
                 variant="text"
                 color={isScrolling ? "gray" : "white"}
                 size="sm"
+                placeholder="" onPointerEnterCapture={() => { }} onPointerLeaveCapture={() => { }}
               >
                 <i className="fa-brands  fa-whatsapp text-base" />
               </IconButton>
